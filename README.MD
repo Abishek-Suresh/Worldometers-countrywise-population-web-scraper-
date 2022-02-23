@@ -5,7 +5,7 @@ This is a web scraping work done using scrapy in python which scrapes the countr
 Repository Link: https://github.com/Abishek-Suresh/Worldometers-countrywise-population-web-scraper
 
 ## Tools
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge)
 ![Scrapy](https://img.shields.io/badge/Scrapy-FFD43B?style=for-the-badge&logo=Scrapy)
 
 ## To install scrapy
