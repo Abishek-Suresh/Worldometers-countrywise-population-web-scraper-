@@ -2,7 +2,7 @@
 
 This is a web scraping work done using scrapy in python which scrapes the countries population for specific years mentioned in the website: https://www.worldometers.info/world-population/population-by-country/
 
-Repository Link: https://github.com/Abishek-Suresh/Worldometers-countrywise-population-web-scraper
+Repository Link: https://github.com/Abishek-Suresh/Worldometers-webscraper-using-scrapy
 
 ## Tools
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge)
