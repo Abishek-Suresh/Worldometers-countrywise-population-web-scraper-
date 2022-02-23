@@ -1,0 +1,4197 @@
+country_name,year,population
+Ethiopia,2020,114963588.00
+Ethiopia,2019,112078730.00
+Ethiopia,2018,109224414.00
+Ethiopia,2017,106399924.00
+Ethiopia,2016,103603462.00
+Ethiopia,2015,100835458.00
+Ethiopia,2010,87639964.00
+Ethiopia,2005,76346311.00
+Ethiopia,2000,66224804.00
+Ethiopia,1995,57047908.00
+Ethiopia,1990,47887865.00
+Ethiopia,1985,40652141.00
+Ethiopia,1980,35141712.00
+Ethiopia,1975,32566854.00
+Ethiopia,1970,28415077.00
+Ethiopia,1965,25013626.00
+Ethiopia,1960,22151278.00
+Ethiopia,1955,19947292.00
+Nigeria,2020,206139589.00
+Nigeria,2019,200963599.00
+Nigeria,2018,195874683.00
+Nigeria,2017,190873244.00
+Nigeria,2016,185960241.00
+Nigeria,2015,181137448.00
+Nigeria,2010,158503197.00
+Nigeria,2005,138865016.00
+Nigeria,2000,122283850.00
+Nigeria,1995,107948335.00
+Nigeria,1990,95212450.00
+Nigeria,1985,83562785.00
+Nigeria,1980,73423633.00
+Nigeria,1975,63374298.00
+Nigeria,1970,55982144.00
+Nigeria,1965,50127921.00
+Nigeria,1960,45138458.00
+Nigeria,1955,41086100.00
+Indonesia,2020,273523615.00
+Indonesia,2019,270625568.00
+Indonesia,2018,267670543.00
+Indonesia,2017,264650963.00
+Indonesia,2016,261556381.00
+Indonesia,2015,258383256.00
+Indonesia,2010,241834215.00
+Indonesia,2005,226289470.00
+Indonesia,2000,211513823.00
+Indonesia,1995,196934260.00
+Indonesia,1990,181413402.00
+Indonesia,1985,164982451.00
+Indonesia,1980,147447836.00
+Indonesia,1975,130680727.00
+Indonesia,1970,114793178.00
+Indonesia,1965,100267062.00
+Indonesia,1960,87751068.00
+Indonesia,1955,77273425.00
+United States,2020,331002651.00
+United States,2019,329064917.00
+United States,2018,327096265.00
+United States,2017,325084756.00
+United States,2016,323015995.00
+United States,2015,320878310.00
+United States,2010,309011475.00
+United States,2005,294993511.00
+United States,2000,281710909.00
+United States,1995,265163745.00
+United States,1990,252120309.00
+United States,1985,240499825.00
+United States,1980,229476354.00
+United States,1975,219081251.00
+United States,1970,209513341.00
+United States,1965,199733676.00
+United States,1960,186720571.00
+United States,1955,171685336.00
+Japan,2020,126476461.00
+Japan,2019,126860301.00
+Japan,2018,127202192.00
+Japan,2017,127502725.00
+Japan,2016,127763265.00
+Japan,2015,127985133.00
+Japan,2010,128542353.00
+Japan,2005,128326116.00
+Japan,2000,127524174.00
+Japan,1995,126365484.00
+Japan,1990,124505240.00
+Japan,1985,121883482.00
+Japan,1980,117816940.00
+Japan,1975,112413359.00
+Japan,1970,104929251.00
+Japan,1965,98447002.00
+Japan,1960,93673615.00
+Japan,1955,89018257.00
+Mexico,2020,128932753.00
+Mexico,2019,127575529.00
+Mexico,2018,126190788.00
+Mexico,2017,124777324.00
+Mexico,2016,123333376.00
+Mexico,2015,121858258.00
+Mexico,2010,114092963.00
+Mexico,2005,106005203.00
+Mexico,2000,98899845.00
+Mexico,1995,91663285.00
+Mexico,1990,83943132.00
+Mexico,1985,75983485.00
+Mexico,1980,67761372.00
+Mexico,1975,59607953.00
+Mexico,1970,51493565.00
+Bangladesh,2020,164689383.00
+Bangladesh,2019,163046161.00
+Bangladesh,2018,161376708.00
+Bangladesh,2017,159685424.00
+Bangladesh,2016,157977153.00
+Bangladesh,2015,156256276.00
+Bangladesh,2010,147575430.00
+Bangladesh,2005,139035505.00
+Bangladesh,2000,127657854.00
+Bangladesh,1995,115169930.00
+Bangladesh,1990,103171956.00
+Bangladesh,1985,90764183.00
+Bangladesh,1980,79639491.00
+Bangladesh,1975,70066301.00
+Bangladesh,1970,64232482.00
+Bangladesh,1965,55385112.00
+Bangladesh,1960,48013504.00
+Bangladesh,1955,42086301.00
+Brazil,2020,212559417.00
+Brazil,2019,211049527.00
+Brazil,2018,209469323.00
+Brazil,2017,207833823.00
+Brazil,2016,206163053.00
+Brazil,2015,204471769.00
+Brazil,2010,195713635.00
+Brazil,2005,186127103.00
+Brazil,2000,174790340.00
+Brazil,1995,162019896.00
+Brazil,1990,149003223.00
+Brazil,1985,135274080.00
+Brazil,1980,120694009.00
+Brazil,1975,107216205.00
+Brazil,1970,95113265.00
+Brazil,1965,83373530.00
+Brazil,1960,72179226.00
+Brazil,1955,62533919.00
+Pakistan,2020,220892340.00
+Pakistan,2019,216565318.00
+Pakistan,2018,212228286.00
+Pakistan,2017,207906209.00
+Pakistan,2016,203631353.00
+Pakistan,2015,199426964.00
+Pakistan,2010,179424641.00
+Pakistan,2005,160304008.00
+Pakistan,2000,142343578.00
+Pakistan,1995,123776839.00
+Pakistan,1990,107647921.00
+Pakistan,1985,92191510.00
+Pakistan,1980,78054343.00
+Pakistan,1975,66816877.00
+Pakistan,1970,58142060.00
+Pakistan,1965,50917975.00
+Pakistan,1960,44988690.00
+Pakistan,1955,40488030.00
+Mexico,1965,44123853.00
+Mexico,1960,37771859.00
+Mexico,1955,32350596.00
+Russia,2020,145934462.00
+Russia,2019,145872256.00
+Russia,2018,145734038.00
+Russia,2017,145530082.00
+Russia,2016,145275383.00
+Russia,2015,144985057.00
+Russia,2010,143479274.00
+Russia,2005,143672116.00
+Russia,2000,146404903.00
+Russia,1995,148227466.00
+Russia,1990,147531561.00
+Russia,1985,142957284.00
+Russia,1980,138053150.00
+Russia,1975,133804858.00
+Russia,1970,130148653.00
+India,2020,1380004385.00
+India,2019,1366417754.00
+India,2018,1352642280.00
+India,2017,1338676785.00
+India,2016,1324517249.00
+India,2015,1310152403.00
+India,2010,1234281170.00
+India,2005,1147609927.00
+India,2000,1056575549.00
+India,1995,963922588.00
+India,1990,873277798.00
+India,1985,784360008.00
+India,1980,698952844.00
+India,1975,623102897.00
+India,1970,555189792.00
+India,1965,499123324.00
+India,1960,450547679.00
+India,1955,409880595.00
+Russia,1965,126503736.00
+Russia,1960,119871700.00
+Russia,1955,111355300.00
+China,2020,1439323776.00
+China,2019,1433783686.00
+China,2018,1427647786.00
+China,2017,1421021791.00
+China,2016,1414049351.00
+China,2015,1406847870.00
+China,2010,1368810615.00
+China,2005,1330776380.00
+China,2000,1290550765.00
+China,1995,1240920535.00
+China,1990,1176883674.00
+China,1985,1075589361.00
+China,1980,1000089235.00
+China,1975,926240885.00
+China,1970,827601394.00
+China,1965,724218968.00
+China,1960,660408056.00
+China,1955,612241554.00
+Holy See,2019,799.00
+Holy See,2018,801.00
+Holy See,2017,793.00
+Holy See,2016,801.00
+Holy See,2015,803.00
+Holy See,2010,794.00
+Holy See,2005,798.00
+Holy See,2000,785.00
+Holy See,1995,780.00
+Holy See,1990,768.00
+Holy See,1985,746.00
+Holy See,1980,724.00
+Holy See,1975,728.00
+Holy See,1970,644.00
+Holy See,1965,854.00
+Holy See,1960,906.00
+Holy See,1955,908.00
+Mauritania,2020,4649658.00
+Mauritania,2019,4525696.00
+Mauritania,2018,4403313.00
+Mauritania,2017,4282570.00
+Mauritania,2016,4163533.00
+Mauritania,2015,4046301.00
+Mauritania,2010,3494195.00
+Mauritania,2005,3024194.00
+Mauritania,2000,2630219.00
+Mauritania,1995,2313630.00
+Mauritania,1990,2034346.00
+Mauritania,1985,1780030.00
+Mauritania,1980,1540640.00
+Mauritania,1975,1330598.00
+Mauritania,1970,1146780.00
+Mauritania,1965,985910.00
+Mauritania,1960,850384.00
+Mauritania,1955,738299.00
+Tokelau,2019,1340.00
+Tokelau,2018,1319.00
+Tokelau,2017,1300.00
+Tokelau,2016,1282.00
+Tokelau,2015,1252.00
+Tokelau,2010,1140.00
+Tokelau,2005,1208.00
+Tokelau,2000,1554.00
+Tokelau,1995,1517.00
+Tokelau,1990,1608.00
+Tokelau,1985,1709.00
+Tokelau,1980,1553.00
+Tokelau,1975,1572.00
+Tokelau,1970,1621.00
+Tokelau,1965,1922.00
+Tokelau,1960,1873.00
+Tokelau,1955,1607.00
+New Zealand,2020,4822233.00
+New Zealand,2019,4783063.00
+New Zealand,2018,4743131.00
+New Zealand,2017,4702034.00
+New Zealand,2016,4659265.00
+New Zealand,2015,4614532.00
+New Zealand,2010,4370062.00
+New Zealand,2005,4135355.00
+New Zealand,2000,3858999.00
+New Zealand,1995,3674936.00
+New Zealand,1990,3398172.00
+New Zealand,1985,3268236.00
+New Zealand,1980,3146619.00
+New Zealand,1975,3082633.00
+New Zealand,1970,2818387.00
+New Zealand,1965,2626645.00
+New Zealand,1960,2372594.00
+New Zealand,1955,2136391.00
+Panama,2020,4314767.00
+Panama,2019,4246439.00
+Panama,2018,4176869.00
+Panama,2017,4106769.00
+Panama,2016,4037078.00
+Panama,2015,3968487.00
+Panama,2010,3642687.00
+Panama,2005,3330217.00
+Panama,2000,3030328.00
+Panama,1995,2739668.00
+Panama,1990,2470947.00
+Panama,1985,2219201.00
+Panama,1980,1978487.00
+Panama,1975,1745138.00
+Panama,1970,1519285.00
+Panama,1965,1314677.00
+Panama,1960,1132997.00
+Panama,1955,981080.00
+Niue,2019,1615.00
+Niue,2018,1620.00
+Niue,2017,1609.00
+Niue,2016,1614.00
+Niue,2015,1619.00
+Niue,2010,1618.00
+Niue,2005,1683.00
+Niue,2000,1899.00
+Niue,1995,2165.00
+Niue,1990,2329.00
+Niue,1985,2719.00
+Niue,1980,3404.00
+Niue,1975,3976.00
+Niue,1970,5135.00
+Niue,1965,5098.00
+Niue,1960,4826.00
+Niue,1955,4694.00
+Central African Republic,2020,4829767.00
+Central African Republic,2019,4745185.00
+Central African Republic,2018,4666368.00
+Central African Republic,2017,4596023.00
+Central African Republic,2016,4537686.00
+Central African Republic,2015,4493170.00
+Central African Republic,2010,4386768.00
+Central African Republic,2005,4038382.00
+Central African Republic,2000,3640427.00
+Central African Republic,1995,3222656.00
+Central African Republic,1990,2806734.00
+Central African Republic,1985,2542169.00
+Central African Republic,1980,2199356.00
+Central African Republic,1975,1958367.00
+Central African Republic,1970,1811144.00
+Central African Republic,1965,1639706.00
+Central African Republic,1960,1501668.00
+Central African Republic,1955,1401341.00
+Falkland Islands,2019,3377.00
+Falkland Islands,2018,3234.00
+Falkland Islands,2017,3068.00
+Falkland Islands,2016,2928.00
+Falkland Islands,2015,2834.00
+Falkland Islands,2010,2901.00
+Falkland Islands,2005,2935.00
+Falkland Islands,2000,2892.00
+Falkland Islands,1995,2490.00
+Falkland Islands,1990,1982.00
+Falkland Islands,1985,1850.00
+Falkland Islands,1980,1854.00
+Falkland Islands,1975,1903.00
+Falkland Islands,1970,1992.00
+Falkland Islands,1965,2078.00
+Falkland Islands,1960,2150.00
+Falkland Islands,1955,2204.00
+Montserrat,2019,4989.00
+Montserrat,2018,4993.00
+Montserrat,2017,4984.00
+Montserrat,2016,4981.00
+Montserrat,2015,4967.00
+Montserrat,2010,4899.00
+Montserrat,2005,4835.00
+Montserrat,2000,4929.00
+Montserrat,1995,9848.00
+Montserrat,1990,10615.00
+Montserrat,1985,10792.00
+Montserrat,1980,11607.00
+Saint Pierre & Miquelon,2019,5822.00
+Saint Pierre & Miquelon,2018,5849.00
+Saint Pierre & Miquelon,2017,5887.00
+Saint Pierre & Miquelon,2016,5934.00
+Saint Pierre & Miquelon,2015,5993.00
+Saint Pierre & Miquelon,2010,6353.00
+Saint Pierre & Miquelon,2005,6123.00
+Saint Pierre & Miquelon,2000,6294.00
+Saint Pierre & Miquelon,1995,6392.00
+Saint Pierre & Miquelon,1990,6393.00
+Saint Pierre & Miquelon,1985,6024.00
+Saint Pierre & Miquelon,1980,6131.00
+Saint Pierre & Miquelon,1975,6006.00
+Saint Pierre & Miquelon,1970,5552.00
+Saint Pierre & Miquelon,1965,5173.00
+Saint Pierre & Miquelon,1960,4971.00
+Saint Pierre & Miquelon,1955,4755.00
+Saint Helena,2019,6059.00
+Saint Helena,2018,6035.00
+Saint Helena,2017,6008.00
+Saint Helena,2016,5956.00
+Saint Helena,2015,5865.00
+Saint Helena,2010,5183.00
+Saint Helena,2005,5364.00
+Saint Helena,2000,6049.00
+Saint Helena,1995,6247.00
+Saint Helena,1990,6647.00
+Saint Helena,1985,6817.00
+Saint Helena,1980,6582.00
+Saint Helena,1975,6235.00
+Saint Helena,1970,5692.00
+Saint Helena,1965,5328.00
+Saint Helena,1960,5364.00
+Saint Helena,1955,5345.00
+Montserrat,1975,11580.00
+Montserrat,1970,11534.00
+Montserrat,1965,11726.00
+Montserrat,1960,11957.00
+Montserrat,1955,14233.00
+Wallis & Futuna,2019,11432.00
+Wallis & Futuna,2018,11661.00
+Wallis & Futuna,2017,11900.00
+Wallis & Futuna,2016,12107.00
+Wallis & Futuna,2015,12266.00
+Wallis & Futuna,2010,12689.00
+Wallis & Futuna,2005,14939.00
+Wallis & Futuna,2000,14694.00
+Wallis & Futuna,1995,14149.00
+Wallis & Futuna,1990,13800.00
+Wallis & Futuna,1985,13622.00
+Wallis & Futuna,1980,11231.00
+Wallis & Futuna,1975,9320.00
+Wallis & Futuna,1970,8853.00
+Wallis & Futuna,1965,8724.00
+Wallis & Futuna,1960,8157.00
+Wallis & Futuna,1955,7669.00
+Nauru,2019,10756.00
+Nauru,2018,10670.00
+Nauru,2017,10573.00
+Nauru,2016,10475.00
+Nauru,2015,10383.00
+Nauru,2010,10005.00
+Nauru,2005,9849.00
+Nauru,2000,10337.00
+Nauru,1995,10628.00
+Nauru,1990,9505.00
+Nauru,1985,8501.00
+Nauru,1980,7741.00
+Nauru,1975,7175.00
+Nauru,1970,6552.00
+Nauru,1965,5856.00
+Nauru,1960,4375.00
+Nauru,1955,3819.00
+Saint Barthelemy,2019,9847.00
+Saint Barthelemy,2018,9816.00
+Saint Barthelemy,2017,9784.00
+Saint Barthelemy,2016,9748.00
+Saint Barthelemy,2015,9693.00
+Saint Barthelemy,2010,9234.00
+Saint Barthelemy,2005,8553.00
+Saint Barthelemy,2000,7427.00
+Saint Barthelemy,1995,6367.00
+Saint Barthelemy,1990,5339.00
+Saint Barthelemy,1985,3368.00
+Saint Barthelemy,1980,3082.00
+Saint Barthelemy,1975,2610.00
+Saint Barthelemy,1970,2343.00
+Tuvalu,2019,11646.00
+Tuvalu,2018,11508.00
+Tuvalu,2017,11370.00
+Tuvalu,2016,11225.00
+Tuvalu,2015,11099.00
+Tuvalu,2010,10530.00
+Tuvalu,2005,10000.00
+Tuvalu,2000,9394.00
+Tuvalu,1995,9298.00
+Tuvalu,1990,8913.00
+Tuvalu,1985,8219.00
+Tuvalu,1980,7637.00
+Saint Barthelemy,1965,2382.00
+Saint Barthelemy,1960,2304.00
+Saint Barthelemy,1955,2245.00
+Tuvalu,1975,6060.00
+Tuvalu,1970,5735.00
+Tuvalu,1965,5386.00
+Tuvalu,1960,5323.00
+Tuvalu,1955,5069.00
+Anguilla,2019,14869.00
+Anguilla,2018,14731.00
+Anguilla,2017,14584.00
+Anguilla,2016,14429.00
+Anguilla,2015,14279.00
+Anguilla,2010,13438.00
+Anguilla,2005,12453.00
+Anguilla,2000,11252.00
+Anguilla,1995,9866.00
+Anguilla,1990,8899.00
+Anguilla,1985,7293.00
+Anguilla,1980,7285.00
+Anguilla,1975,7159.00
+Anguilla,1970,6771.00
+Anguilla,1965,6361.00
+Anguilla,1960,6032.00
+Anguilla,1955,5783.00
+Cook Islands,2019,17548.00
+Cook Islands,2018,17518.00
+Palau,2019,18008.00
+Palau,2018,17907.00
+Palau,2017,17808.00
+Palau,2016,17725.00
+Palau,2015,17665.00
+Palau,2010,17955.00
+Palau,2005,19781.00
+Palau,2000,19105.00
+Palau,1995,17164.00
+Palau,1990,15058.00
+Palau,1985,13528.00
+Palau,1980,12179.00
+Palau,1975,12904.00
+Palau,1970,11811.00
+Palau,1965,11003.00
+Palau,1960,9771.00
+Palau,1955,8322.00
+Caribbean Netherlands,2019,25979.00
+Caribbean Netherlands,2018,25711.00
+Caribbean Netherlands,2017,25401.00
+Caribbean Netherlands,2016,25020.00
+Caribbean Netherlands,2015,24570.00
+Caribbean Netherlands,2010,20940.00
+Caribbean Netherlands,2005,14403.00
+Caribbean Netherlands,2000,14393.00
+Caribbean Netherlands,1995,15107.00
+Caribbean Netherlands,1990,13019.00
+Caribbean Netherlands,1985,12025.00
+Caribbean Netherlands,1980,11210.00
+Caribbean Netherlands,1975,11027.00
+Caribbean Netherlands,1970,10359.00
+Caribbean Netherlands,1965,9134.00
+Caribbean Netherlands,1960,8074.00
+Caribbean Netherlands,1955,7670.00
+Cook Islands,2017,17507.00
+Cook Islands,2016,17524.00
+Cook Islands,2015,17586.00
+Cook Islands,2010,18391.00
+Cook Islands,2005,19074.00
+Cook Islands,2000,17930.00
+Cook Islands,1995,19097.00
+Cook Islands,1990,18191.00
+Cook Islands,1985,17603.00
+Cook Islands,1980,17512.00
+Cook Islands,1975,20234.00
+Cook Islands,1970,21302.00
+Cook Islands,1965,18894.00
+Cook Islands,1960,18212.00
+Cook Islands,1955,16347.00
+British Virgin Islands,2019,30030.00
+British Virgin Islands,2018,29802.00
+British Virgin Islands,2017,29577.00
+British Virgin Islands,2016,29355.00
+British Virgin Islands,2015,29152.00
+British Virgin Islands,2010,27794.00
+British Virgin Islands,2005,23107.00
+British Virgin Islands,2000,20311.00
+British Virgin Islands,1995,19313.00
+British Virgin Islands,1990,17489.00
+British Virgin Islands,1985,13956.00
+British Virgin Islands,1980,11478.00
+British Virgin Islands,1975,10699.00
+British Virgin Islands,1970,9827.00
+British Virgin Islands,1965,8830.00
+British Virgin Islands,1960,8048.00
+British Virgin Islands,1955,7679.00
+Liechtenstein,2019,38019.00
+Liechtenstein,2018,37910.00
+Liechtenstein,2017,37800.00
+Liechtenstein,2016,37658.00
+Liechtenstein,2015,37470.00
+Liechtenstein,2010,35994.00
+Liechtenstein,2005,34713.00
+Liechtenstein,2000,33184.00
+Liechtenstein,1995,30880.00
+Liechtenstein,1990,28789.00
+Liechtenstein,1985,27288.00
+Liechtenstein,1980,25879.00
+Liechtenstein,1975,23438.00
+Liechtenstein,1970,21266.00
+Liechtenstein,1965,18649.00
+Liechtenstein,1960,16493.00
+Liechtenstein,1955,14830.00
+San Marino,2019,33860.00
+San Marino,2018,33785.00
+San Marino,2017,33671.00
+San Marino,2016,33504.00
+San Marino,2015,33272.00
+San Marino,2010,31229.00
+San Marino,2005,29324.00
+San Marino,2000,27462.00
+San Marino,1995,25928.00
+San Marino,1990,24125.00
+San Marino,1985,22798.00
+San Marino,1980,21459.00
+San Marino,1975,19831.00
+San Marino,1970,19221.00
+San Marino,1965,17513.00
+San Marino,1960,15432.00
+San Marino,1955,13789.00
+Gibraltar,2019,33701.00
+Gibraltar,2018,33718.00
+Gibraltar,2017,33728.00
+Gibraltar,2016,33737.00
+Gibraltar,2015,33736.00
+Gibraltar,2010,33585.00
+Gibraltar,2005,33219.00
+Gibraltar,2000,31077.00
+Gibraltar,1995,28692.00
+Gibraltar,1990,29147.00
+Gibraltar,1985,29154.00
+Gibraltar,1980,30065.00
+Gibraltar,1975,30067.00
+Gibraltar,1970,28606.00
+Gibraltar,1965,26073.00
+Gibraltar,1960,23420.00
+Gibraltar,1955,22788.00
+Saint Martin,2019,38002.00
+Saint Martin,2018,37264.00
+Saint Martin,2017,36560.00
+Saint Martin,2016,36065.00
+Saint Martin,2015,35858.00
+Saint Martin,2010,37582.00
+Saint Martin,2005,34248.00
+Saint Martin,2000,28935.00
+Saint Martin,1995,27321.00
+Saint Martin,1990,31520.00
+Saint Martin,1985,11061.00
+Saint Martin,1980,8771.00
+Saint Martin,1975,6881.00
+Saint Martin,1970,5712.00
+Saint Martin,1965,4468.00
+Saint Martin,1960,3893.00
+Saint Martin,1955,3408.00
+Monaco,2019,38964.00
+Monaco,2018,38682.00
+Monaco,2017,38392.00
+Monaco,2016,38070.00
+Monaco,2015,37718.00
+Monaco,2010,35612.00
+Monaco,2005,33843.00
+Monaco,2000,32147.00
+Monaco,1995,30716.00
+Monaco,1990,29438.00
+Monaco,1985,28832.00
+Monaco,1980,26745.00
+Monaco,1975,25198.00
+Monaco,1970,23484.00
+Monaco,1965,23282.00
+Monaco,1960,22452.00
+Monaco,1955,19655.00
+Sint Maarten,2019,42388.00
+Sint Maarten,2018,41940.00
+Sint Maarten,2017,41444.00
+Sint Maarten,2016,40808.00
+Sint Maarten,2015,39968.00
+Sint Maarten,2010,34168.00
+Sint Maarten,2005,33434.00
+Sint Maarten,2000,32564.00
+Sint Maarten,1995,31160.00
+Sint Maarten,1990,28812.00
+Sint Maarten,1985,19123.00
+Sint Maarten,1980,13100.00
+Sint Maarten,1975,9557.00
+Sint Maarten,1970,6864.00
+Sint Maarten,1965,4459.00
+Sint Maarten,1960,2833.00
+Sint Maarten,1955,2108.00
+Turks and Caicos,2019,38191.00
+Turks and Caicos,2018,37665.00
+Turks and Caicos,2017,37115.00
+Turks and Caicos,2016,36559.00
+Turks and Caicos,2015,35981.00
+Turks and Caicos,2010,32660.00
+Turks and Caicos,2005,28180.00
+Turks and Caicos,2000,20164.00
+Turks and Caicos,1995,16216.00
+Turks and Caicos,1990,12111.00
+Turks and Caicos,1985,9970.00
+Turks and Caicos,1980,7888.00
+Turks and Caicos,1975,6827.00
+Turks and Caicos,1970,5841.00
+Turks and Caicos,1965,5823.00
+Turks and Caicos,1960,5824.00
+Turks and Caicos,1955,5238.00
+Faeroe Islands,2019,48678.00
+Faeroe Islands,2018,48497.00
+Faeroe Islands,2017,48331.00
+Faeroe Islands,2016,48173.00
+Faeroe Islands,2015,48051.00
+Faeroe Islands,2010,47814.00
+Faeroe Islands,2005,47722.00
+Faeroe Islands,2000,46735.00
+Faeroe Islands,1995,45625.00
+Faeroe Islands,1990,47274.00
+Faeroe Islands,1985,45330.00
+Faeroe Islands,1980,43337.00
+Faeroe Islands,1975,41299.00
+Faeroe Islands,1970,39009.00
+Faeroe Islands,1965,36847.00
+Faeroe Islands,1960,34615.00
+Faeroe Islands,1955,32481.00
+Greenland,2019,56672.00
+Greenland,2018,56564.00
+Greenland,2017,56481.00
+Greenland,2016,56412.00
+Greenland,2015,56377.00
+Greenland,2010,56638.00
+Greenland,2005,56951.00
+Greenland,2000,56175.00
+Greenland,1995,55811.00
+Greenland,1990,55604.00
+Greenland,1985,53190.00
+Greenland,1980,50179.00
+Greenland,1975,49586.00
+Greenland,1970,46074.00
+Greenland,1965,37964.00
+Greenland,1960,31239.00
+Greenland,1955,25846.00
+Saint Kitts & Nevis,2019,52823.00
+Saint Kitts & Nevis,2018,52441.00
+Saint Kitts & Nevis,2017,52045.00
+Saint Kitts & Nevis,2016,51625.00
+Saint Kitts & Nevis,2015,51203.00
+Saint Kitts & Nevis,2010,49016.00
+Saint Kitts & Nevis,2005,46857.00
+Saint Kitts & Nevis,2000,44074.00
+Saint Kitts & Nevis,1995,42074.00
+Saint Kitts & Nevis,1990,40259.00
+Saint Kitts & Nevis,1985,41866.00
+Saint Kitts & Nevis,1980,43205.00
+Saint Kitts & Nevis,1975,44272.00
+Saint Kitts & Nevis,1970,44883.00
+Saint Kitts & Nevis,1965,49214.00
+Saint Kitts & Nevis,1960,51195.00
+Saint Kitts & Nevis,1955,48492.00
+American Samoa,2019,55312.00
+American Samoa,2018,55465.00
+American Samoa,2017,55620.00
+American Samoa,2016,55741.00
+American Samoa,2015,55812.00
+American Samoa,2010,56079.00
+American Samoa,2005,59562.00
+American Samoa,2000,57821.00
+American Samoa,1995,53161.00
+American Samoa,1990,47347.00
+American Samoa,1985,39519.00
+American Samoa,1980,32646.00
+American Samoa,1975,30052.00
+American Samoa,1970,27363.00
+American Samoa,1965,23672.00
+American Samoa,1960,20123.00
+American Samoa,1955,19754.00
+Northern Mariana Islands,2019,57216.00
+Northern Mariana Islands,2018,56882.00
+Northern Mariana Islands,2017,56562.00
+Northern Mariana Islands,2016,56188.00
+Northern Mariana Islands,2015,55780.00
+Northern Mariana Islands,2010,53971.00
+Northern Mariana Islands,2005,56542.00
+Northern Mariana Islands,2000,57453.00
+Northern Mariana Islands,1995,45870.00
+Northern Mariana Islands,1990,45752.00
+Northern Mariana Islands,1985,28720.00
+Northern Mariana Islands,1980,16633.00
+Northern Mariana Islands,1975,14924.00
+Northern Mariana Islands,1970,12994.00
+Northern Mariana Islands,1965,11022.00
+Northern Mariana Islands,1960,9979.00
+Northern Mariana Islands,1955,7985.00
+Marshall Islands,2019,58791.00
+Marshall Islands,2018,58413.00
+Marshall Islands,2017,58058.00
+Marshall Islands,2016,57735.00
+Marshall Islands,2015,57439.00
+Marshall Islands,2010,56366.00
+Marshall Islands,2005,55258.00
+Marshall Islands,2000,50753.00
+Marshall Islands,1995,50457.00
+Marshall Islands,1990,47271.00
+Marshall Islands,1985,38333.00
+Marshall Islands,1980,30576.00
+Marshall Islands,1975,25576.00
+Marshall Islands,1970,20395.00
+Marshall Islands,1965,17284.00
+Marshall Islands,1960,14662.00
+Marshall Islands,1955,13894.00
+Bermuda,2019,62506.00
+Bermuda,2018,62756.00
+Bermuda,2017,63049.00
+Bermuda,2016,63362.00
+Bermuda,2015,63692.00
+Bermuda,2010,65389.00
+Bermuda,2005,66257.00
+Bermuda,2000,65012.00
+Bermuda,1995,63442.00
+Bermuda,1990,61634.00
+Bermuda,1985,59602.00
+Bermuda,1980,57573.00
+Bermuda,1975,55400.00
+Bermuda,1970,52565.00
+Bermuda,1965,49388.00
+Bermuda,1960,44979.00
+Bermuda,1955,40708.00
+Cayman Islands,2019,64948.00
+Cayman Islands,2018,64174.00
+Cayman Islands,2017,63382.00
+Cayman Islands,2016,62569.00
+Cayman Islands,2015,61724.00
+Cayman Islands,2010,56672.00
+Cayman Islands,2005,49261.00
+Cayman Islands,2000,42303.00
+Cayman Islands,1995,32166.00
+Cayman Islands,1990,25312.00
+Cayman Islands,1985,19467.00
+Cayman Islands,1980,16212.00
+Cayman Islands,1975,12244.00
+Cayman Islands,1970,9144.00
+Cayman Islands,1965,8369.00
+Cayman Islands,1960,7865.00
+Cayman Islands,1955,6677.00
+Dominica,2019,71808.00
+Dominica,2018,71625.00
+Dominica,2017,71458.00
+Dominica,2016,71307.00
+Dominica,2015,71183.00
+Dominica,2010,70878.00
+Dominica,2005,70589.00
+Dominica,2000,69650.00
+Dominica,1995,71098.00
+Dominica,1990,70419.00
+Dominica,1985,73201.00
+Dominica,1980,75314.00
+Dominica,1975,72094.00
+Dominica,1970,71073.00
+Dominica,1965,65038.00
+Dominica,1960,60011.00
+Dominica,1955,54560.00
+Isle of Man,2019,84584.00
+Isle of Man,2018,84077.00
+Isle of Man,2017,83598.00
+Isle of Man,2016,83287.00
+Isle of Man,2015,83234.00
+Isle of Man,2010,84857.00
+Isle of Man,2005,80305.00
+Isle of Man,2000,76941.00
+Isle of Man,1995,72131.00
+Isle of Man,1990,70298.00
+Isle of Man,1985,64278.00
+Isle of Man,1980,63551.00
+Isle of Man,1975,59478.00
+Isle of Man,1970,55425.00
+Isle of Man,1965,50141.00
+Isle of Man,1960,48442.00
+Isle of Man,1955,52408.00
+Andorra,2019,77142.00
+Andorra,2018,77006.00
+Andorra,2017,77001.00
+Andorra,2016,77297.00
+Andorra,2015,78011.00
+Andorra,2010,84449.00
+Andorra,2005,78867.00
+Andorra,2000,65390.00
+Andorra,1995,63850.00
+Andorra,1990,54509.00
+Andorra,1985,44600.00
+Andorra,1980,36067.00
+Andorra,1975,30705.00
+Andorra,1970,24276.00
+Andorra,1965,18549.00
+Andorra,1960,13411.00
+Andorra,1955,9232.00
+Antigua and Barbuda,2020,97929.00
+Antigua and Barbuda,2019,97118.00
+Antigua and Barbuda,2018,96286.00
+Antigua and Barbuda,2017,95426.00
+Antigua and Barbuda,2016,94527.00
+Antigua and Barbuda,2015,93566.00
+Antigua and Barbuda,2010,88028.00
+Antigua and Barbuda,2005,81465.00
+Antigua and Barbuda,2000,76016.00
+Antigua and Barbuda,1995,68670.00
+Antigua and Barbuda,1990,62528.00
+Antigua and Barbuda,1985,61786.00
+Antigua and Barbuda,1980,61865.00
+Antigua and Barbuda,1975,62675.00
+Antigua and Barbuda,1970,64177.00
+Antigua and Barbuda,1965,58698.00
+Antigua and Barbuda,1960,54131.00
+Antigua and Barbuda,1955,49648.00
+Seychelles,2020,98347.00
+Seychelles,2019,97739.00
+Seychelles,2018,97096.00
+Seychelles,2017,96418.00
+Seychelles,2016,95710.00
+Seychelles,2015,94978.00
+Seychelles,2010,91264.00
+Seychelles,2005,88648.00
+Seychelles,2000,80996.00
+Seychelles,1995,76649.00
+Seychelles,1990,70570.00
+Seychelles,1985,69775.00
+Seychelles,1980,66244.00
+Seychelles,1975,59585.00
+Seychelles,1970,52368.00
+Seychelles,1965,46782.00
+Seychelles,1960,41603.00
+Seychelles,1955,38955.00
+Tonga,2020,105695.00
+Tonga,2019,104494.00
+Tonga,2018,103197.00
+Tonga,2017,101998.00
+Tonga,2016,101133.00
+Tonga,2015,100781.00
+Tonga,2010,103986.00
+Tonga,2005,100905.00
+Tonga,2000,97973.00
+Tonga,1995,95976.00
+Tonga,1990,95069.00
+Tonga,1985,93896.00
+Tonga,1980,92971.00
+Tonga,1975,88318.00
+Tonga,1970,84351.00
+Tonga,1965,74345.00
+Tonga,1960,61577.00
+Tonga,1955,55322.00
+St. Vincent & Grenadines,2020,110940.00
+St. Vincent & Grenadines,2019,110589.00
+St. Vincent & Grenadines,2018,110211.00
+St. Vincent & Grenadines,2017,109827.00
+St. Vincent & Grenadines,2016,109459.00
+St. Vincent & Grenadines,2015,109148.00
+St. Vincent & Grenadines,2010,108255.00
+St. Vincent & Grenadines,2005,108614.00
+St. Vincent & Grenadines,2000,107784.00
+St. Vincent & Grenadines,1995,108035.00
+St. Vincent & Grenadines,1990,107484.00
+St. Vincent & Grenadines,1985,104506.00
+St. Vincent & Grenadines,1980,100566.00
+St. Vincent & Grenadines,1975,95662.00
+St. Vincent & Grenadines,1970,90509.00
+St. Vincent & Grenadines,1965,86011.00
+St. Vincent & Grenadines,1960,80977.00
+St. Vincent & Grenadines,1955,73554.00
+U.S. Virgin Islands,2020,104425.00
+U.S. Virgin Islands,2019,104578.00
+U.S. Virgin Islands,2018,104680.00
+U.S. Virgin Islands,2017,104751.00
+U.S. Virgin Islands,2016,104835.00
+U.S. Virgin Islands,2015,104958.00
+U.S. Virgin Islands,2010,106087.00
+U.S. Virgin Islands,2005,107794.00
+U.S. Virgin Islands,2000,108722.00
+U.S. Virgin Islands,1995,107392.00
+U.S. Virgin Islands,1990,103756.00
+U.S. Virgin Islands,1985,105280.00
+U.S. Virgin Islands,1980,99080.00
+U.S. Virgin Islands,1975,86470.00
+U.S. Virgin Islands,1970,64726.00
+U.S. Virgin Islands,1965,50233.00
+U.S. Virgin Islands,1960,33135.00
+U.S. Virgin Islands,1955,29682.00
+Aruba,2020,106766.00
+Aruba,2019,106314.00
+Aruba,2018,105845.00
+Aruba,2017,105366.00
+Aruba,2016,104872.00
+Aruba,2015,104341.00
+Aruba,2010,101669.00
+Aruba,2005,100031.00
+Aruba,2000,90853.00
+Aruba,1995,80324.00
+Aruba,1990,62149.00
+Aruba,1985,63026.00
+Aruba,1980,60096.00
+Aruba,1975,60657.00
+Aruba,1970,59063.00
+Aruba,1965,57360.00
+Aruba,1960,54211.00
+Aruba,1955,43724.00
+Grenada,2020,112523.00
+Grenada,2019,112003.00
+Grenada,2018,111454.00
+Grenada,2017,110874.00
+Grenada,2016,110261.00
+Grenada,2015,109599.00
+Grenada,2010,106233.00
+Grenada,2005,104661.00
+Grenada,2000,102833.00
+Grenada,1995,100288.00
+Grenada,1990,96331.00
+Grenada,1985,99946.00
+Grenada,1980,89032.00
+Grenada,1975,92494.00
+Grenada,1970,94475.00
+Grenada,1965,94636.00
+Grenada,1960,89932.00
+Grenada,1955,81103.00
+Kiribati,2020,119449.00
+Kiribati,2019,117606.00
+Kiribati,2018,115847.00
+Kiribati,2017,114158.00
+Kiribati,2016,112524.00
+Kiribati,2015,110930.00
+Kiribati,2010,102927.00
+Kiribati,2005,92325.00
+Kiribati,2000,84396.00
+Kiribati,1995,77723.00
+Kiribati,1990,72400.00
+Kiribati,1985,63986.00
+Kiribati,1980,59301.00
+Kiribati,1975,55114.00
+Kiribati,1970,51151.00
+Kiribati,1965,46429.00
+Kiribati,1960,41202.00
+Kiribati,1955,36573.00
+Curaçao,2020,164093.00
+Curaçao,2019,163424.00
+Curaçao,2018,162752.00
+Curaçao,2017,161997.00
+Curaçao,2016,161052.00
+Curaçao,2015,159847.00
+Curaçao,2010,149192.00
+Curaçao,2005,130130.00
+Curaçao,2000,132140.00
+Curaçao,1995,143882.00
+Curaçao,1990,146670.00
+Curaçao,1985,150377.00
+Curaçao,1980,147996.00
+Curaçao,1975,150258.00
+Curaçao,1970,143634.00
+Curaçao,1965,133878.00
+Curaçao,1960,126941.00
+Curaçao,1955,116916.00
+Guam,2020,168775.00
+Guam,2019,167294.00
+Guam,2018,165768.00
+Guam,2017,164281.00
+Guam,2016,162951.00
+Guam,2015,161853.00
+Guam,2010,159444.00
+Guam,2005,158402.00
+Guam,2000,155329.00
+Guam,1995,145561.00
+Guam,1990,130482.00
+Guam,1985,116572.00
+Guam,1980,104133.00
+Guam,1975,93352.00
+Guam,1970,83877.00
+Guam,1965,74830.00
+Guam,1960,66742.00
+Guam,1955,62641.00
+Samoa,2020,198414.00
+Samoa,2019,197097.00
+Samoa,2018,196129.00
+Samoa,2017,195352.00
+Samoa,2016,194535.00
+Samoa,2015,193513.00
+Samoa,2010,185949.00
+Samoa,2005,179727.00
+Samoa,2000,174454.00
+Samoa,1995,170054.00
+Samoa,1990,162803.00
+Samoa,1985,159990.00
+Samoa,1980,155525.00
+Samoa,1975,151359.00
+Samoa,1970,143149.00
+Samoa,1965,127054.00
+Samoa,1960,108629.00
+Samoa,1955,94178.00
+Channel Islands,2020,173863.00
+Channel Islands,2019,172259.00
+Channel Islands,2018,170499.00
+Channel Islands,2017,168665.00
+Channel Islands,2016,166923.00
+Channel Islands,2015,165385.00
+Channel Islands,2010,159734.00
+Channel Islands,2005,151678.00
+Channel Islands,2000,148443.00
+Channel Islands,1995,143484.00
+Channel Islands,1990,140671.00
+Channel Islands,1985,133808.00
+Channel Islands,1980,128212.00
+Channel Islands,1975,126415.00
+Channel Islands,1970,121197.00
+Channel Islands,1965,114995.00
+Channel Islands,1960,109420.00
+Channel Islands,1955,105609.00
+Saint Lucia,2020,183627.00
+Saint Lucia,2019,182790.00
+Saint Lucia,2018,181889.00
+Saint Lucia,2017,180954.00
+Saint Lucia,2016,180024.00
+Saint Lucia,2015,179126.00
+Saint Lucia,2010,174085.00
+Saint Lucia,2005,163417.00
+Saint Lucia,2000,156729.00
+Saint Lucia,1995,146870.00
+Saint Lucia,1990,138020.00
+Saint Lucia,1985,126244.00
+Saint Lucia,1980,117822.00
+Saint Lucia,1975,109627.00
+Saint Lucia,1970,104015.00
+Saint Lucia,1965,96134.00
+Saint Lucia,1960,89697.00
+Saint Lucia,1955,86477.00
+Sao Tome & Principe,2020,219159.00
+Sao Tome & Principe,2019,215056.00
+Sao Tome & Principe,2018,211028.00
+Sao Tome & Principe,2017,207089.00
+Sao Tome & Principe,2016,203227.00
+Sao Tome & Principe,2015,199432.00
+Sao Tome & Principe,2010,180371.00
+Sao Tome & Principe,2005,157472.00
+Sao Tome & Principe,2000,142262.00
+Sao Tome & Principe,1995,131678.00
+Sao Tome & Principe,1990,119209.00
+Sao Tome & Principe,1985,104924.00
+Sao Tome & Principe,1980,95794.00
+Sao Tome & Principe,1975,83138.00
+Sao Tome & Principe,1970,74564.00
+Sao Tome & Principe,1965,64892.00
+Sao Tome & Principe,1960,64302.00
+Sao Tome & Principe,1955,58806.00
+Mayotte,2020,272815.00
+Mayotte,2019,266150.00
+Mayotte,2018,259531.00
+Mayotte,2017,252957.00
+Mayotte,2016,246450.00
+Mayotte,2015,240020.00
+Mayotte,2010,208718.00
+Mayotte,2005,178098.00
+Mayotte,2000,150331.00
+Mayotte,1995,123181.00
+Mayotte,1990,94784.00
+Mayotte,1985,72104.00
+Mayotte,1980,55137.00
+Mayotte,1975,45483.00
+Mayotte,1970,36969.00
+Mayotte,1965,30526.00
+Mayotte,1960,24015.00
+Mayotte,1955,18985.00
+French Polynesia,2020,280908.00
+French Polynesia,2019,279287.00
+French Polynesia,2018,277679.00
+French Polynesia,2017,276102.00
+French Polynesia,2016,274575.00
+French Polynesia,2015,273124.00
+French Polynesia,2010,266455.00
+French Polynesia,2005,258780.00
+French Polynesia,2000,240686.00
+French Polynesia,1995,218071.00
+French Polynesia,1990,199905.00
+French Polynesia,1985,177027.00
+French Polynesia,1980,153301.00
+French Polynesia,1975,131233.00
+French Polynesia,1970,110495.00
+French Polynesia,1965,93438.00
+French Polynesia,1960,78076.00
+French Polynesia,1955,68854.00
+New Caledonia,2020,285498.00
+New Caledonia,2019,282750.00
+New Caledonia,2018,279993.00
+New Caledonia,2017,277150.00
+New Caledonia,2016,274191.00
+New Caledonia,2015,271065.00
+New Caledonia,2010,253527.00
+New Caledonia,2005,236442.00
+New Caledonia,2000,217269.00
+New Caledonia,1995,193293.00
+New Caledonia,1990,170336.00
+New Caledonia,1985,155982.00
+New Caledonia,1980,145144.00
+New Caledonia,1975,130264.00
+New Caledonia,1970,105324.00
+New Caledonia,1965,91200.00
+New Caledonia,1960,78056.00
+New Caledonia,1955,67748.00
+Barbados,2020,287375.00
+Barbados,2019,287025.00
+Barbados,2018,286641.00
+Barbados,2017,286232.00
+Barbados,2016,285796.00
+Barbados,2015,285324.00
+Barbados,2010,282131.00
+Barbados,2005,276323.00
+Barbados,2000,271515.00
+Barbados,1995,265955.00
+Barbados,1990,260936.00
+Barbados,1985,256263.00
+Barbados,1980,252394.00
+Barbados,1975,246154.00
+Barbados,1970,238896.00
+Barbados,1965,235413.00
+Barbados,1960,230980.00
+Barbados,1955,227138.00
+French Guiana,2020,298682.00
+French Guiana,2019,290832.00
+French Guiana,2018,282938.00
+French Guiana,2017,275191.00
+French Guiana,2016,267821.00
+French Guiana,2015,260999.00
+French Guiana,2010,233002.00
+French Guiana,2005,202971.00
+French Guiana,2000,163165.00
+French Guiana,1995,137400.00
+French Guiana,1990,115784.00
+French Guiana,1985,86439.00
+French Guiana,1980,66977.00
+French Guiana,1975,56223.00
+French Guiana,1970,47930.00
+French Guiana,1965,38892.00
+French Guiana,1960,32032.00
+French Guiana,1955,28490.00
+Iceland,2020,341243.00
+Iceland,2019,339031.00
+Iceland,2018,336713.00
+Iceland,2017,334393.00
+Iceland,2016,332206.00
+Iceland,2015,330243.00
+Iceland,2010,320328.00
+Iceland,2005,294979.00
+Iceland,2000,280435.00
+Iceland,1995,267629.00
+Iceland,1990,255043.00
+Iceland,1985,241582.00
+Iceland,1980,228262.00
+Iceland,1975,218070.00
+Iceland,1970,204426.00
+Iceland,1965,192313.00
+Iceland,1960,175592.00
+Iceland,1955,157642.00
+Vanuatu,2020,307145.00
+Vanuatu,2019,299882.00
+Vanuatu,2018,292680.00
+Vanuatu,2017,285510.00
+Vanuatu,2016,278330.00
+Vanuatu,2015,271130.00
+Vanuatu,2010,236211.00
+Vanuatu,2005,209282.00
+Vanuatu,2000,184972.00
+Vanuatu,1995,168158.00
+Vanuatu,1990,146573.00
+Vanuatu,1985,129984.00
+Vanuatu,1980,115597.00
+Vanuatu,1975,99859.00
+Vanuatu,1970,85377.00
+Vanuatu,1965,74270.00
+Vanuatu,1960,63689.00
+Vanuatu,1955,54921.00
+Martinique,2020,375265.00
+Martinique,2019,375554.00
+Martinique,2018,375673.00
+Martinique,2017,375948.00
+Martinique,2016,376791.00
+Martinique,2015,378478.00
+Martinique,2010,394663.00
+Martinique,2005,397190.00
+Martinique,2000,387004.00
+Martinique,1995,368732.00
+Martinique,1990,358449.00
+Martinique,1985,339876.00
+Martinique,1980,325454.00
+Martinique,1975,327838.00
+Martinique,1970,325011.00
+Martinique,1965,311127.00
+Martinique,1960,281622.00
+Martinique,1955,245675.00
+Bahamas,2020,393244.00
+Bahamas,2019,389482.00
+Bahamas,2018,385637.00
+Bahamas,2017,381755.00
+Bahamas,2016,377930.00
+Bahamas,2015,374206.00
+Bahamas,2010,354942.00
+Bahamas,2005,324859.00
+Bahamas,2000,298051.00
+Bahamas,1995,280184.00
+Bahamas,1990,256223.00
+Bahamas,1985,234578.00
+Bahamas,1980,210591.00
+Bahamas,1975,188896.00
+Bahamas,1970,169377.00
+Bahamas,1965,140059.00
+Bahamas,1960,109534.00
+Bahamas,1955,88631.00
+Belize,2020,397628.00
+Belize,2019,390353.00
+Belize,2018,383071.00
+Belize,2017,375769.00
+Belize,2016,368400.00
+Belize,2015,360933.00
+Belize,2010,322464.00
+Belize,2005,283800.00
+Belize,2000,247315.00
+Belize,1995,206963.00
+Belize,1990,187552.00
+Belize,1985,164921.00
+Belize,1980,144155.00
+Belize,1975,133260.00
+Belize,1970,122182.00
+Belize,1965,106119.00
+Belize,1960,92064.00
+Belize,1955,79870.00
+Guadeloupe,2020,400124.00
+Guadeloupe,2019,400056.00
+Guadeloupe,2018,399848.00
+Guadeloupe,2017,399672.00
+Guadeloupe,2016,399763.00
+Guadeloupe,2015,400255.00
+Guadeloupe,2010,406071.00
+Guadeloupe,2005,402904.00
+Guadeloupe,2000,422051.00
+Guadeloupe,1995,403738.00
+Guadeloupe,1990,389249.00
+Guadeloupe,1985,342730.00
+Guadeloupe,1980,336685.00
+Guadeloupe,1975,328493.00
+Guadeloupe,1970,321883.00
+Guadeloupe,1965,300056.00
+Guadeloupe,1960,275161.00
+Guadeloupe,1955,236064.00
+Brunei ,2020,437479.00
+Brunei ,2019,433285.00
+Brunei ,2018,428963.00
+Brunei ,2017,424473.00
+Brunei ,2016,419800.00
+Brunei ,2015,414907.00
+Brunei ,2010,388646.00
+Brunei ,2005,365114.00
+Brunei ,2000,333165.00
+Brunei ,1995,297114.00
+Brunei ,1990,258721.00
+Brunei ,1985,224449.00
+Brunei ,1980,193879.00
+Brunei ,1975,161626.00
+Brunei ,1970,129529.00
+Brunei ,1965,102386.00
+Brunei ,1960,81702.00
+Brunei ,1955,63356.00
+Malta,2020,441543.00
+Malta,2019,440372.00
+Malta,2018,439248.00
+Malta,2017,437933.00
+Malta,2016,436097.00
+Malta,2015,433559.00
+Malta,2010,414253.00
+Malta,2005,404653.00
+Malta,2000,393645.00
+Malta,1995,376896.00
+Malta,1990,362015.00
+Malta,1985,346250.00
+Malta,1980,331497.00
+Malta,1975,322356.00
+Malta,1970,320545.00
+Malta,1965,322242.00
+Malta,1960,312973.00
+Malta,1955,313526.00
+Maldives,2020,540544.00
+Maldives,2019,530953.00
+Maldives,2018,515696.00
+Maldives,2017,496402.00
+Maldives,2016,475512.00
+Maldives,2015,454915.00
+Maldives,2010,365734.00
+Maldives,2005,319608.00
+Maldives,2000,279398.00
+Maldives,1995,254139.00
+Maldives,1990,223158.00
+Maldives,1985,189537.00
+Maldives,1980,158272.00
+Maldives,1975,136417.00
+Maldives,1970,115691.00
+Maldives,1965,102718.00
+Maldives,1960,89863.00
+Maldives,1955,79703.00
+Cabo Verde,2020,555987.00
+Cabo Verde,2019,549935.00
+Cabo Verde,2018,543767.00
+Cabo Verde,2017,537498.00
+Cabo Verde,2016,531146.00
+Cabo Verde,2015,524743.00
+Cabo Verde,2010,492654.00
+Cabo Verde,2005,463032.00
+Cabo Verde,2000,428188.00
+Cabo Verde,1995,386284.00
+Cabo Verde,1990,337950.00
+Cabo Verde,1985,311678.00
+Cabo Verde,1980,283847.00
+Cabo Verde,1975,270247.00
+Cabo Verde,1970,268627.00
+Cabo Verde,1965,230418.00
+Cabo Verde,1960,201765.00
+Cabo Verde,1955,197195.00
+Micronesia,2020,548914.00
+Micronesia,2019,543486.00
+Micronesia,2018,538127.00
+Micronesia,2017,532899.00
+Micronesia,2016,527813.00
+Micronesia,2015,522945.00
+Micronesia,2010,503579.00
+Micronesia,2005,498286.00
+Micronesia,2000,484775.00
+Micronesia,1995,454932.00
+Micronesia,1990,416769.00
+Micronesia,1985,355280.00
+Micronesia,1980,303493.00
+Micronesia,1975,272173.00
+Micronesia,1970,248197.00
+Micronesia,1965,218651.00
+Micronesia,1960,191245.00
+Micronesia,1955,171107.00
+Suriname,2020,586632.00
+Suriname,2019,581372.00
+Suriname,2018,575990.00
+Suriname,2017,570496.00
+Suriname,2016,564888.00
+Suriname,2015,559143.00
+Suriname,2010,529131.00
+Suriname,2005,499464.00
+Suriname,2000,470949.00
+Suriname,1995,441851.00
+Suriname,1990,405168.00
+Suriname,1985,368638.00
+Suriname,1980,359519.00
+Suriname,1975,359226.00
+Suriname,1970,367931.00
+Suriname,1965,328936.00
+Suriname,1960,287871.00
+Suriname,1955,249000.00
+Western Sahara,2020,597339.00
+Western Sahara,2019,582463.00
+Western Sahara,2018,567402.00
+Western Sahara,2017,552615.00
+Western Sahara,2016,538749.00
+Western Sahara,2015,526216.00
+Western Sahara,2010,480274.00
+Western Sahara,2005,437515.00
+Western Sahara,2000,314118.00
+Western Sahara,1995,255634.00
+Western Sahara,1990,217258.00
+Western Sahara,1985,182421.00
+Western Sahara,1980,150877.00
+Western Sahara,1975,74954.00
+Western Sahara,1970,76874.00
+Western Sahara,1965,50970.00
+Western Sahara,1960,32761.00
+Western Sahara,1955,21147.00
+Luxembourg,2020,625978.00
+Luxembourg,2019,615729.00
+Luxembourg,2018,604245.00
+Luxembourg,2017,591910.00
+Luxembourg,2016,579264.00
+Luxembourg,2015,566741.00
+Luxembourg,2010,507889.00
+Luxembourg,2005,457842.00
+Luxembourg,2000,436103.00
+Luxembourg,1995,408149.00
+Luxembourg,1990,381791.00
+Luxembourg,1985,366884.00
+Luxembourg,1980,364038.00
+Luxembourg,1975,353983.00
+Luxembourg,1970,339668.00
+Luxembourg,1965,330161.00
+Luxembourg,1960,314588.00
+Luxembourg,1955,305261.00
+Montenegro,2020,628066.00
+Montenegro,2019,627987.00
+Montenegro,2018,627809.00
+Montenegro,2017,627563.00
+Montenegro,2016,627264.00
+Montenegro,2015,626956.00
+Montenegro,2010,624275.00
+Montenegro,2005,616391.00
+Montenegro,2000,613559.00
+Montenegro,1995,620418.00
+Montenegro,1990,615002.00
+Montenegro,1985,614016.00
+Montenegro,1980,580754.00
+Montenegro,1975,554262.00
+Montenegro,1970,519696.00
+Montenegro,1965,533814.00
+Montenegro,1960,487413.00
+Montenegro,1955,443795.00
+Macao,2020,649335.00
+Macao,2019,640445.00
+Macao,2018,631636.00
+Macao,2017,622585.00
+Macao,2016,612836.00
+Macao,2015,602085.00
+Macao,2010,538219.00
+Macao,2005,482858.00
+Macao,2000,427782.00
+Macao,1995,385513.00
+Macao,1990,343808.00
+Macao,1985,283503.00
+Macao,1980,238071.00
+Macao,1975,241628.00
+Macao,1970,246194.00
+Macao,1965,203228.00
+Macao,1960,167791.00
+Solomon Islands,2020,686884.00
+Solomon Islands,2019,669823.00
+Solomon Islands,2018,652857.00
+Solomon Islands,2017,636039.00
+Solomon Islands,2016,619438.00
+Solomon Islands,2015,603118.00
+Solomon Islands,2010,527861.00
+Solomon Islands,2005,469918.00
+Solomon Islands,2000,412660.00
+Solomon Islands,1995,359281.00
+Solomon Islands,1990,311866.00
+Solomon Islands,1985,270788.00
+Solomon Islands,1980,230546.00
+Solomon Islands,1975,193402.00
+Solomon Islands,1970,160250.00
+Solomon Islands,1965,136816.00
+Solomon Islands,1960,117849.00
+Solomon Islands,1955,102002.00
+Macao,1955,189460.00
+Guyana,2020,786552.00
+Guyana,2019,782766.00
+Guyana,2018,779006.00
+Guyana,2017,775222.00
+Guyana,2016,771368.00
+Guyana,2015,767432.00
+Guyana,2010,749436.00
+Guyana,2005,746163.00
+Guyana,2000,746715.00
+Guyana,1995,761291.00
+Guyana,1990,743309.00
+Guyana,1985,770435.00
+Guyana,1980,780153.00
+Guyana,1975,745841.00
+Guyana,1970,704934.00
+Guyana,1965,651868.00
+Guyana,1960,571819.00
+Guyana,1955,482555.00
+Bhutan,2020,771608.00
+Bhutan,2019,763092.00
+Bhutan,2018,754388.00
+Bhutan,2017,745563.00
+Bhutan,2016,736708.00
+Bhutan,2015,727876.00
+Bhutan,2010,685503.00
+Bhutan,2005,648739.00
+Bhutan,2000,591021.00
+Bhutan,1995,534620.00
+Bhutan,1990,530804.00
+Bhutan,1985,464266.00
+Bhutan,1980,406875.00
+Bhutan,1975,348396.00
+Bhutan,1970,297316.00
+Bhutan,1965,253994.00
+Bhutan,1960,223288.00
+Bhutan,1955,197457.00
+Comoros,2020,869601.00
+Comoros,2019,850886.00
+Comoros,2018,832322.00
+Comoros,2017,813892.00
+Comoros,2016,795592.00
+Comoros,2015,777424.00
+Comoros,2010,689692.00
+Comoros,2005,611627.00
+Comoros,2000,542357.00
+Comoros,1995,475394.00
+Comoros,1990,411594.00
+Comoros,1985,355337.00
+Comoros,1980,307829.00
+Comoros,1975,257290.00
+Comoros,1970,230054.00
+Comoros,1965,207424.00
+Comoros,1960,191121.00
+Comoros,1955,175903.00
+Réunion,2020,895312.00
+Réunion,2019,888927.00
+Réunion,2018,882526.00
+Réunion,2017,876134.00
+Réunion,2016,869743.00
+Réunion,2015,863363.00
+Réunion,2010,830519.00
+Réunion,2005,791598.00
+Réunion,2000,736710.00
+Réunion,1995,673541.00
+Réunion,1990,610582.00
+Réunion,1985,558699.00
+Réunion,1980,509265.00
+Réunion,1975,484777.00
+Réunion,1970,462025.00
+Réunion,1965,390775.00
+Réunion,1960,335693.00
+Réunion,1955,291658.00
+Fiji,2020,896445.00
+Fiji,2019,889953.00
+Fiji,2018,883483.00
+Fiji,2017,877459.00
+Fiji,2016,872399.00
+Fiji,2015,868627.00
+Fiji,2010,859818.00
+Fiji,2005,821604.00
+Fiji,2000,811006.00
+Fiji,1995,775425.00
+Fiji,1990,728573.00
+Fiji,1985,711775.00
+Fiji,1980,635307.00
+Fiji,1975,576626.00
+Fiji,1970,520562.00
+Fiji,1965,463968.00
+Fiji,1960,393481.00
+Fiji,1955,335098.00
+Djibouti,2020,988000.00
+Djibouti,2019,973560.00
+Djibouti,2018,958923.00
+Djibouti,2017,944099.00
+Djibouti,2016,929112.00
+Djibouti,2015,913993.00
+Djibouti,2010,840198.00
+Djibouti,2005,783254.00
+Djibouti,2000,717584.00
+Djibouti,1995,630388.00
+Djibouti,1990,590398.00
+Djibouti,1985,425613.00
+Djibouti,1980,358960.00
+Djibouti,1975,224183.00
+Djibouti,1970,159659.00
+Djibouti,1965,114963.00
+Djibouti,1960,83636.00
+Djibouti,1955,69589.00
+Eswatini,2020,1160164.00
+Eswatini,2019,1148130.00
+Eswatini,2018,1136281.00
+Eswatini,2017,1124805.00
+Eswatini,2016,1113997.00
+Eswatini,2015,1104044.00
+Eswatini,2010,1064837.00
+Eswatini,2005,1030579.00
+Eswatini,2000,1005435.00
+Eswatini,1995,926841.00
+Eswatini,1990,822420.00
+Eswatini,1985,699080.00
+Eswatini,1980,587858.00
+Eswatini,1975,499763.00
+Eswatini,1970,431253.00
+Eswatini,1965,373919.00
+Eswatini,1960,336583.00
+Eswatini,1955,303028.00
+Cyprus,2020,1207359.00
+Cyprus,2019,1198575.00
+Cyprus,2018,1189265.00
+Cyprus,2017,1179678.00
+Cyprus,2016,1170187.00
+Cyprus,2015,1160985.00
+Cyprus,2010,1112612.00
+Cyprus,2005,1027662.00
+Cyprus,2000,943290.00
+Cyprus,1995,855383.00
+Cyprus,1990,766615.00
+Cyprus,1985,703685.00
+Mauritius,2020,1271768.00
+Mauritius,2019,1269668.00
+Mauritius,2018,1267185.00
+Mauritius,2017,1264499.00
+Mauritius,2016,1261865.00
+Mauritius,2015,1259456.00
+Mauritius,2010,1247955.00
+Mauritius,2005,1222003.00
+Mauritius,2000,1185145.00
+Mauritius,1995,1128673.00
+Mauritius,1990,1055868.00
+Mauritius,1985,1015762.00
+Mauritius,1980,966031.00
+Mauritius,1975,892211.00
+Timor-Leste,2020,1318445.00
+Timor-Leste,2019,1293119.00
+Timor-Leste,2018,1267974.00
+Timor-Leste,2017,1243258.00
+Timor-Leste,2016,1219288.00
+Timor-Leste,2015,1196302.00
+Timor-Leste,2010,1093523.00
+Timor-Leste,2005,995135.00
+Timor-Leste,2000,884366.00
+Timor-Leste,1995,844334.00
+Timor-Leste,1990,737814.00
+Timor-Leste,1985,657053.00
+Timor-Leste,1980,599905.00
+Timor-Leste,1975,629227.00
+Timor-Leste,1970,571565.00
+Timor-Leste,1965,519686.00
+Timor-Leste,1960,474532.00
+Timor-Leste,1955,439223.00
+Cyprus,1980,685405.00
+Cyprus,1975,649751.00
+Cyprus,1970,613618.00
+Cyprus,1965,580966.00
+Cyprus,1960,572930.00
+Cyprus,1955,529972.00
+Mauritius,1970,826441.00
+Mauritius,1965,753285.00
+Mauritius,1960,660023.00
+Mauritius,1955,570648.00
+Estonia,2020,1326535.00
+Estonia,2019,1325648.00
+Estonia,2018,1322920.00
+Estonia,2017,1319390.00
+Estonia,2016,1316510.00
+Estonia,2015,1315325.00
+Estonia,2010,1332101.00
+Estonia,2005,1355648.00
+Estonia,2000,1399112.00
+Estonia,1995,1433024.00
+Estonia,1990,1565246.00
+Estonia,1985,1522400.00
+Estonia,1980,1474439.00
+Estonia,1975,1422043.00
+Estonia,1970,1360202.00
+Estonia,1965,1290396.00
+Estonia,1960,1216819.00
+Estonia,1955,1159231.00
+Trinidad and Tobago,2020,1399488.00
+Trinidad and Tobago,2019,1394973.00
+Trinidad and Tobago,2018,1389843.00
+Trinidad and Tobago,2017,1384059.00
+Trinidad and Tobago,2016,1377560.00
+Trinidad and Tobago,2015,1370328.00
+Trinidad and Tobago,2010,1328147.00
+Trinidad and Tobago,2005,1296502.00
+Trinidad and Tobago,2000,1267153.00
+Trinidad and Tobago,1995,1254200.00
+Trinidad and Tobago,1990,1221116.00
+Trinidad and Tobago,1985,1170285.00
+Trinidad and Tobago,1980,1084744.00
+Trinidad and Tobago,1975,1010936.00
+Trinidad and Tobago,1970,945360.00
+Trinidad and Tobago,1965,911737.00
+Trinidad and Tobago,1960,847979.00
+Trinidad and Tobago,1955,739709.00
+Equatorial Guinea,2020,1402985.00
+Equatorial Guinea,2019,1355986.00
+Equatorial Guinea,2018,1308975.00
+Equatorial Guinea,2017,1262002.00
+Equatorial Guinea,2016,1215180.00
+Equatorial Guinea,2015,1168568.00
+Equatorial Guinea,2010,943639.00
+Equatorial Guinea,2005,749535.00
+Equatorial Guinea,2000,606181.00
+Equatorial Guinea,1995,496768.00
+Equatorial Guinea,1990,419188.00
+Equatorial Guinea,1985,352118.00
+Equatorial Guinea,1980,249929.00
+Equatorial Guinea,1975,255800.00
+Equatorial Guinea,1970,303982.00
+Equatorial Guinea,1965,276300.00
+Equatorial Guinea,1960,255333.00
+Equatorial Guinea,1955,239873.00
+Bahrain,2020,1701575.00
+Bahrain,2019,1641172.00
+Bahrain,2018,1569446.00
+Bahrain,2017,1494076.00
+Bahrain,2016,1425792.00
+Bahrain,2015,1371851.00
+Bahrain,2010,1240860.00
+Bahrain,2005,889164.00
+Bahrain,2000,664611.00
+Bahrain,1995,563697.00
+Bahrain,1990,495931.00
+Bahrain,1985,419428.00
+Bahrain,1980,359888.00
+Bahrain,1975,266543.00
+Bahrain,1970,212605.00
+Bahrain,1965,187431.00
+Bahrain,1960,162427.00
+Bahrain,1955,133585.00
+Latvia,2020,1886198.00
+Latvia,2019,1906743.00
+Latvia,2018,1928459.00
+Latvia,2017,1951097.00
+Latvia,2016,1974266.00
+Latvia,2015,1997674.00
+Latvia,2010,2118861.00
+Latvia,2005,2251993.00
+Latvia,2000,2384164.00
+Latvia,1995,2508480.00
+Latvia,1990,2664439.00
+Latvia,1985,2580758.00
+Latvia,1980,2521391.00
+Latvia,1975,2469444.00
+Latvia,1970,2378021.00
+Latvia,1965,2266943.00
+Latvia,1960,2129586.00
+Guinea-Bissau,2020,1968001.00
+Guinea-Bissau,2019,1920922.00
+Guinea-Bissau,2018,1874303.00
+Guinea-Bissau,2017,1828145.00
+Guinea-Bissau,2016,1782438.00
+Guinea-Bissau,2015,1737202.00
+Guinea-Bissau,2010,1522599.00
+Guinea-Bissau,2005,1344930.00
+Guinea-Bissau,2000,1201301.00
+Guinea-Bissau,1995,1088854.00
+Guinea-Bissau,1990,975261.00
+Guinea-Bissau,1985,872163.00
+Guinea-Bissau,1980,781677.00
+Guinea-Bissau,1975,765989.00
+Guinea-Bissau,1970,704939.00
+Guinea-Bissau,1965,649790.00
+Guinea-Bissau,1960,616136.00
+Guinea-Bissau,1955,576136.00
+Latvia,1955,2001574.00
+Slovenia,2020,2078938.00
+Slovenia,2019,2078654.00
+Slovenia,2018,2077837.00
+Slovenia,2017,2076394.00
+Slovenia,2016,2074210.00
+Slovenia,2015,2071199.00
+Slovenia,2010,2043337.00
+Slovenia,2005,1994976.00
+Slovenia,2000,1987717.00
+Slovenia,1995,1991131.00
+Slovenia,1990,2006405.00
+Slovenia,1985,1945130.00
+Slovenia,1980,1835831.00
+Slovenia,1975,1742623.00
+Slovenia,1970,1669581.00
+Slovenia,1965,1629433.00
+Slovenia,1960,1586637.00
+Slovenia,1955,1527205.00
+North Macedonia,2020,2083374.00
+North Macedonia,2019,2083459.00
+North Macedonia,2018,2082957.00
+North Macedonia,2017,2081996.00
+North Macedonia,2016,2080743.00
+North Macedonia,2015,2079328.00
+North Macedonia,2010,2070741.00
+North Macedonia,2005,2060273.00
+North Macedonia,2000,2034819.00
+North Macedonia,1995,1983252.00
+North Macedonia,1990,1996228.00
+North Macedonia,1985,1981534.00
+North Macedonia,1980,1924197.00
+North Macedonia,1975,1803010.00
+North Macedonia,1970,1720800.00
+North Macedonia,1965,1592433.00
+North Macedonia,1960,1488667.00
+North Macedonia,1955,1392449.00
+Lesotho,2020,2142249.00
+Lesotho,2019,2125268.00
+Lesotho,2018,2108328.00
+Lesotho,2017,2091534.00
+Lesotho,2016,2075030.00
+Lesotho,2015,2059021.00
+Lesotho,2010,1995581.00
+Lesotho,2005,1996114.00
+Lesotho,2000,2032804.00
+Lesotho,1995,1898598.00
+Lesotho,1990,1703747.00
+Lesotho,1985,1526131.00
+Lesotho,1980,1340255.00
+Lesotho,1975,1160792.00
+Lesotho,1970,1028926.00
+Lesotho,1965,922306.00
+Lesotho,1960,837270.00
+Lesotho,1955,766763.00
+Gabon,2020,2225734.00
+Gabon,2019,2172579.00
+Gabon,2018,2119275.00
+Gabon,2017,2064823.00
+Gabon,2016,2007873.00
+Botswana,2020,2351627.00
+Botswana,2019,2303697.00
+Botswana,2018,2254068.00
+Botswana,2017,2205080.00
+Botswana,2016,2159927.00
+Botswana,2015,2120716.00
+Botswana,2010,1987105.00
+Botswana,2005,1799078.00
+Botswana,2000,1643334.00
+Botswana,1995,1469174.00
+Botswana,1990,1286756.00
+Botswana,1985,1069582.00
+Botswana,1980,897868.00
+Botswana,1975,741355.00
+Botswana,1970,627715.00
+Botswana,1965,559994.00
+Botswana,1960,502745.00
+Gabon,2015,1947686.00
+Gabon,2010,1624140.00
+Gabon,2005,1390549.00
+Gabon,2000,1228360.00
+Gabon,1995,1084946.00
+Gabon,1990,949488.00
+Gabon,1985,827108.00
+Gabon,1980,726328.00
+Gabon,1975,647536.00
+Gabon,1970,589314.00
+Gabon,1965,533361.00
+Gabon,1960,500928.00
+Gabon,1955,484313.00
+Botswana,1955,463359.00
+Gambia,2020,2416668.00
+Gambia,2019,2347706.00
+Gambia,2018,2280094.00
+Gambia,2017,2213889.00
+Gambia,2016,2149136.00
+Gambia,2015,2085860.00
+Gambia,2010,1793196.00
+Gambia,2005,1543741.00
+Gambia,2000,1317703.00
+Gambia,1995,1128575.00
+Gambia,1990,955593.00
+Gambia,1985,755787.00
+Gambia,1980,637246.00
+Gambia,1975,539979.00
+Gambia,1970,464410.00
+Gambia,1965,405259.00
+Gambia,1960,365047.00
+Gambia,1955,329661.00
+Namibia,2020,2540905.00
+Namibia,2019,2494530.00
+Namibia,2018,2448301.00
+Namibia,2017,2402633.00
+Namibia,2016,2358044.00
+Namibia,2015,2314904.00
+Namibia,2010,2118874.00
+Namibia,2005,1938320.00
+Namibia,2000,1794571.00
+Namibia,1995,1627865.00
+Namibia,1990,1432905.00
+Namibia,1985,1198148.00
+Namibia,1980,1057727.00
+Namibia,1975,947921.00
+Namibia,1970,817469.00
+Namibia,1965,716584.00
+Lithuania,2020,2722289.00
+Lithuania,2019,2759627.00
+Lithuania,2018,2801264.00
+Lithuania,2017,2845414.00
+Lithuania,2016,2889557.00
+Lithuania,2015,2931880.00
+Lithuania,2010,3123816.00
+Lithuania,2005,3344268.00
+Namibia,1960,634142.00
+Namibia,1955,567847.00
+Lithuania,2000,3501839.00
+Lithuania,1995,3626612.00
+Lithuania,1990,3696035.00
+Lithuania,1985,3562397.00
+Lithuania,1980,3430760.00
+Lithuania,1975,3298879.00
+Lithuania,1970,3136586.00
+Lithuania,1965,2966165.00
+Lithuania,1960,2769876.00
+Lithuania,1955,2628751.00
+Puerto Rico,2020,2860853.00
+Puerto Rico,2019,2933408.00
+Puerto Rico,2018,3039596.00
+Puerto Rico,2017,3163667.00
+Puerto Rico,2016,3283125.00
+Puerto Rico,2015,3381518.00
+Puerto Rico,2010,3579841.00
+Puerto Rico,2005,3631889.00
+Puerto Rico,2000,3668960.00
+Puerto Rico,1995,3567696.00
+Puerto Rico,1990,3403154.00
+Puerto Rico,1985,3263179.00
+Puerto Rico,1980,3090691.00
+Puerto Rico,1975,2844927.00
+Puerto Rico,1970,2631707.00
+Puerto Rico,1965,2507537.00
+Puerto Rico,1960,2294982.00
+Puerto Rico,1955,2195516.00
+Qatar,2020,2881053.00
+Qatar,2019,2832067.00
+Qatar,2018,2781682.00
+Qatar,2017,2724728.00
+Qatar,2016,2654374.00
+Qatar,2015,2565710.00
+Qatar,2010,1856327.00
+Qatar,2005,865416.00
+Qatar,2000,592468.00
+Qatar,1995,513442.00
+Qatar,1990,476278.00
+Qatar,1985,370890.00
+Qatar,1980,223632.00
+Qatar,1975,164320.00
+Qatar,1970,109514.00
+Qatar,1965,73633.00
+Qatar,1960,47384.00
+Qatar,1955,35866.00
+Albania,2020,2877797.00
+Albania,2019,2880917.00
+Albania,2018,2882740.00
+Albania,2017,2884169.00
+Albania,2016,2886438.00
+Albania,2015,2890513.00
+Albania,2010,2948023.00
+Albania,2005,3086810.00
+Albania,2000,3129243.00
+Albania,1995,3112936.00
+Albania,1990,3286073.00
+Albania,1985,2969672.00
+Albania,1980,2682690.00
+Albania,1975,2411732.00
+Albania,1970,2150707.00
+Albania,1965,1896171.00
+Albania,1960,1636090.00
+Albania,1955,1419994.00
+Jamaica,2020,2961167.00
+Jamaica,2019,2948279.00
+Jamaica,2018,2934847.00
+Jamaica,2017,2920848.00
+Mongolia,2020,3278290.00
+Mongolia,2019,3225167.00
+Mongolia,2018,3170216.00
+Mongolia,2017,3113786.00
+Mongolia,2016,3056364.00
+Mongolia,2015,2998439.00
+Mongolia,2010,2719896.00
+Mongolia,2005,2526424.00
+Mongolia,2000,2397418.00
+Mongolia,1995,2298020.00
+Mongolia,1990,2184145.00
+Mongolia,1985,1921881.00
+Mongolia,1980,1689622.00
+Mongolia,1975,1479651.00
+Mongolia,1970,1278825.00
+Mongolia,1965,1107124.00
+Mongolia,1960,955505.00
+Mongolia,1955,855103.00
+Jamaica,2016,2906236.00
+Jamaica,2015,2891021.00
+Jamaica,2010,2810460.00
+Jamaica,2005,2740003.00
+Jamaica,2000,2654701.00
+Jamaica,1995,2533711.00
+Jamaica,1990,2419906.00
+Jamaica,1985,2335510.00
+Jamaica,1980,2162846.00
+Jamaica,1975,2028016.00
+Jamaica,1970,1875642.00
+Jamaica,1965,1756511.00
+Jamaica,1960,1628520.00
+Jamaica,1955,1540956.00
+Armenia,2020,2963243.00
+Armenia,2019,2957731.00
+Armenia,2018,2951745.00
+Armenia,2017,2944791.00
+Armenia,2016,2936143.00
+Armenia,2015,2925553.00
+Armenia,2010,2877319.00
+Armenia,2005,2981269.00
+Armenia,2000,3069591.00
+Armenia,1995,3217348.00
+Armenia,1990,3538171.00
+Armenia,1985,3335940.00
+Armenia,1980,3099754.00
+Armenia,1975,2832759.00
+Armenia,1970,2525068.00
+Armenia,1965,2211319.00
+Armenia,1960,1874121.00
+Armenia,1955,1563507.00
+Bosnia and Herzegovina,2020,3280819.00
+Bosnia and Herzegovina,2019,3301000.00
+Bosnia and Herzegovina,2018,3323925.00
+Bosnia and Herzegovina,2017,3351525.00
+Bosnia and Herzegovina,2016,3386266.00
+Bosnia and Herzegovina,2015,3429361.00
+Bosnia and Herzegovina,2010,3705472.00
+Bosnia and Herzegovina,2005,3765331.00
+Bosnia and Herzegovina,2000,3751176.00
+Bosnia and Herzegovina,1995,3829050.00
+Uruguay,2020,3473730.00
+Uruguay,2019,3461734.00
+Uruguay,2018,3449285.00
+Uruguay,2017,3436641.00
+Uruguay,2016,3424129.00
+Uruguay,2015,3412009.00
+Uruguay,2010,3359275.00
+Uruguay,2005,3321803.00
+Uruguay,2000,3319736.00
+Uruguay,1995,3224281.00
+Uruguay,1990,3109601.00
+Uruguay,1985,3011519.00
+Uruguay,1980,2915389.00
+Uruguay,1975,2830176.00
+Uruguay,1970,2809793.00
+Uruguay,1965,2694536.00
+Uruguay,1960,2538643.00
+Uruguay,1955,2372559.00
+Bosnia and Herzegovina,1990,4463423.00
+Bosnia and Herzegovina,1985,4392131.00
+Bosnia and Herzegovina,1980,4179855.00
+Bosnia and Herzegovina,1975,3985105.00
+Bosnia and Herzegovina,1970,3760529.00
+Bosnia and Herzegovina,1965,3535643.00
+Bosnia and Herzegovina,1960,3225668.00
+Bosnia and Herzegovina,1955,2936309.00
+Eritrea,2020,3546421.00
+Eritrea,2019,3497117.00
+Eritrea,2018,3452786.00
+Eritrea,2017,3412893.00
+Eritrea,2016,3376557.00
+Eritrea,2015,3342818.00
+Eritrea,2010,3170435.00
+Eritrea,2005,2826659.00
+Eritrea,2000,2292416.00
+Eritrea,1995,2204222.00
+Eritrea,1990,2258653.00
+Eritrea,1985,2003937.00
+Eritrea,1980,1733416.00
+Eritrea,1975,1505439.00
+Eritrea,1970,1310945.00
+Eritrea,1965,1148189.00
+Eritrea,1960,1007590.00
+Eritrea,1955,899752.00
+Georgia,2020,3989167.00
+Georgia,2019,3996765.00
+Georgia,2018,4002942.00
+Georgia,2017,4008716.00
+Georgia,2016,4015450.00
+Georgia,2015,4024183.00
+Georgia,2010,4099099.00
+Georgia,2005,4210168.00
+Georgia,2000,4362187.00
+Georgia,1995,4976260.00
+Georgia,1990,5410399.00
+Georgia,1985,5211454.00
+Georgia,1980,5017833.00
+Georgia,1975,4873639.00
+Georgia,1970,4713342.00
+Georgia,1965,4371527.00
+Georgia,1960,4007723.00
+Georgia,1955,3713133.00
+Moldova,2020,4033963.00
+Moldova,2019,4043263.00
+Moldova,2018,4051944.00
+Moldova,2017,4059684.00
+Moldova,2016,4066009.00
+Moldova,2015,4070700.00
+Moldova,2010,4086081.00
+Moldova,2005,4159293.00
+Moldova,2000,4202658.00
+Moldova,1995,4340597.00
+Moldova,1990,4365564.00
+Moldova,1985,4216249.00
+Moldova,1980,4011076.00
+Moldova,1975,3840045.00
+Moldova,1970,3595555.00
+Moldova,1965,3336592.00
+Moldova,1960,3004452.00
+Moldova,1955,2627012.00
+Kuwait,2020,4270571.00
+Kuwait,2019,4207083.00
+Kuwait,2018,4137312.00
+Kuwait,2017,4056099.00
+Kuwait,2016,3956875.00
+Kuwait,2015,3835591.00
+Kuwait,2010,2991884.00
+Kuwait,2005,2270198.00
+Kuwait,2000,2045123.00
+Kuwait,1995,1605901.00
+Kuwait,1990,2095344.00
+Kuwait,1985,1735274.00
+Kuwait,1980,1368677.00
+Croatia,2020,4105267.00
+Croatia,2019,4130304.00
+Croatia,2018,4156405.00
+Croatia,2017,4182857.00
+Croatia,2016,4208602.00
+Croatia,2015,4232874.00
+Croatia,2010,4328165.00
+Croatia,2005,4378058.00
+Croatia,2000,4428075.00
+Croatia,1995,4616766.00
+Croatia,1990,4776374.00
+Croatia,1985,4716117.00
+Croatia,1980,4598130.00
+Croatia,1975,4500867.00
+Croatia,1970,4423073.00
+Croatia,1965,4328923.00
+Croatia,1960,4192635.00
+Croatia,1955,4030415.00
+Kuwait,1975,1021720.00
+Kuwait,1970,744450.00
+Kuwait,1965,472037.00
+Kuwait,1960,269029.00
+Kuwait,1955,181888.00
+Ireland,2020,4937786.00
+Ireland,2019,4882495.00
+Ireland,2018,4818690.00
+Ireland,2017,4753279.00
+Ireland,2016,4695779.00
+Ireland,2015,4652425.00
+Ireland,2010,4554321.00
+Ireland,2005,4141223.00
+Ireland,2000,3783103.00
+Ireland,1995,3592186.00
+Ireland,1990,3510885.00
+Ireland,1985,3510979.00
+Ireland,1980,3384756.00
+Ireland,1975,3137176.00
+Ireland,1970,2908421.00
+Ireland,1965,2823650.00
+Ireland,1960,2791397.00
+Ireland,1955,2873415.00
+Liberia,2020,5057681.00
+Liberia,2019,4937374.00
+Liberia,2018,4818973.00
+Liberia,2017,4702226.00
+Liberia,2016,4586787.00
+Liberia,2015,4472230.00
+Liberia,2010,3891356.00
+Liberia,2005,3218116.00
+Liberia,2000,2848456.00
+Liberia,1995,2044661.00
+Liberia,1990,2075912.00
+Liberia,1985,2145754.00
+Liberia,1980,1853001.00
+Liberia,1975,1600452.00
+Liberia,1970,1400730.00
+Liberia,1965,1245102.00
+Liberia,1960,1118657.00
+Costa Rica,2020,5094118.00
+Costa Rica,2019,5047561.00
+Costa Rica,2018,4999441.00
+Costa Rica,2017,4949954.00
+Costa Rica,2016,4899345.00
+Costa Rica,2015,4847804.00
+Costa Rica,2010,4577378.00
+Costa Rica,2005,4285502.00
+Costa Rica,2000,3962372.00
+Costa Rica,1995,3545534.00
+Costa Rica,1990,3119433.00
+Costa Rica,1985,2736712.00
+Costa Rica,1980,2389977.00
+Liberia,1955,1011363.00
+Costa Rica,1975,2094188.00
+Costa Rica,1970,1847394.00
+Costa Rica,1965,1592841.00
+Costa Rica,1960,1330782.00
+Costa Rica,1955,1110087.00
+State of Palestine,2020,5101414.00
+State of Palestine,2019,4981420.00
+State of Palestine,2018,4862979.00
+State of Palestine,2017,4747227.00
+State of Palestine,2016,4635654.00
+State of Palestine,2015,4529166.00
+State of Palestine,2010,4055631.00
+State of Palestine,2005,3577961.00
+State of Palestine,2000,3224003.00
+State of Palestine,1995,2618668.00
+State of Palestine,1990,2101446.00
+State of Palestine,1985,1759534.00
+State of Palestine,1980,1510713.00
+State of Palestine,1975,1323802.00
+State of Palestine,1970,1126629.00
+State of Palestine,1965,1191379.00
+State of Palestine,1960,1069320.00
+State of Palestine,1955,987755.00
+Oman,2020,5106626.00
+Oman,2019,4974986.00
+Oman,2018,4829473.00
+Oman,2017,4665928.00
+Oman,2016,4479219.00
+Oman,2015,4267348.00
+Oman,2010,3041434.00
+Oman,2005,2511251.00
+Oman,2000,2267973.00
+Oman,1995,2204277.00
+Oman,1990,1812161.00
+Oman,1985,1498418.00
+Oman,1980,1154377.00
+Oman,1975,882047.00
+Oman,1970,723851.00
+Norway,2020,5421241.00
+Norway,2019,5378857.00
+Norway,2018,5337962.00
+Norway,2017,5296326.00
+Norway,2016,5250949.00
+Norway,2015,5199836.00
+Norway,2010,4885878.00
+Norway,2005,4632364.00
+Norway,2000,4499367.00
+Norway,1995,4366995.00
+Norway,1990,4247285.00
+Norway,1985,4153105.00
+Norway,1980,4086076.00
+Norway,1975,4008031.00
+Oman,1965,625009.00
+Oman,1960,551740.00
+Oman,1955,495818.00
+Norway,1970,3876060.00
+Norway,1965,3724463.00
+Norway,1960,3582507.00
+Norway,1955,3430340.00
+Slovakia,2020,5459642.00
+Slovakia,2019,5457013.00
+Slovakia,2018,5453014.00
+Slovakia,2017,5447900.00
+Slovakia,2016,5442003.00
+Slovakia,2015,5435611.00
+Slovakia,2010,5404294.00
+Slovakia,2005,5398963.00
+Slovakia,2000,5399211.00
+Slovakia,1995,5375470.00
+Slovakia,1990,5288454.00
+Slovakia,1985,5166798.00
+Slovakia,1980,4996731.00
+Slovakia,1975,4752540.00
+Slovakia,1970,4538841.00
+Slovakia,1965,4383452.00
+Slovakia,1960,4140129.00
+Slovakia,1955,3815402.00
+Congo,2020,5518087.00
+Congo,2019,5380508.00
+Congo,2018,5244359.00
+Congo,2017,5110695.00
+Congo,2016,4980996.00
+Congo,2015,4856095.00
+Congo,2010,4273731.00
+Congo,2005,3622775.00
+Congo,2000,3127411.00
+Congo,1995,2707537.00
+Congo,1990,2356737.00
+Congo,1985,2054312.00
+Congo,1980,1777934.00
+Congo,1975,1536654.00
+Congo,1970,1326885.00
+Congo,1965,1155392.00
+Congo,1960,1018253.00
+Congo,1955,911029.00
+Finland,2020,5540720.00
+Finland,2019,5532156.00
+Finland,2018,5522576.00
+Finland,2017,5511371.00
+Finland,2016,5497713.00
+Finland,2015,5481122.00
+Finland,2010,5365782.00
+Finland,2005,5258927.00
+Finland,2000,5187954.00
+Finland,1995,5119005.00
+Finland,1990,4996222.00
+Finland,1985,4911220.00
+Finland,1980,4788243.00
+Finland,1975,4718749.00
+Finland,1970,4612366.00
+Finland,1965,4568598.00
+Finland,1960,4434590.00
+Finland,1955,4238275.00
+Denmark,2020,5792202.00
+Denmark,2019,5771876.00
+Denmark,2018,5752126.00
+Denmark,2017,5732274.00
+Denmark,2016,5711349.00
+Denmark,2015,5688695.00
+Denmark,2010,5554844.00
+Denmark,2005,5421702.00
+Denmark,2000,5341194.00
+Denmark,1995,5232704.00
+Denmark,1990,5141115.00
+Denmark,1985,5114243.00
+Denmark,1980,5123945.00
+Denmark,1975,5062729.00
+Denmark,1970,4931241.00
+Denmark,1965,4760460.00
+Denmark,1960,4581101.00
+Denmark,1955,4440778.00
+Singapore,2020,5850342.00
+Singapore,2019,5804337.00
+Singapore,2018,5757499.00
+Singapore,2017,5708041.00
+Singapore,2016,5653634.00
+Singapore,2015,5592152.00
+Singapore,2010,5131172.00
+Singapore,2005,4265687.00
+Singapore,2000,4028871.00
+Singapore,1995,3525969.00
+Singapore,1990,3012966.00
+Singapore,1985,2705534.00
+Singapore,1980,2411688.00
+Singapore,1975,2259721.00
+Singapore,1970,2072283.00
+Singapore,1965,1877826.00
+Singapore,1960,1633130.00
+Singapore,1955,1305105.00
+Turkmenistan,2020,6031200.00
+Turkmenistan,2019,5942089.00
+Turkmenistan,2018,5850901.00
+Turkmenistan,2017,5757667.00
+Turkmenistan,2016,5662368.00
+Turkmenistan,2015,5565287.00
+Turkmenistan,2010,5087213.00
+Turkmenistan,2005,4754646.00
+Turkmenistan,2000,4516133.00
+Turkmenistan,1995,4207841.00
+Turkmenistan,1990,3683967.00
+Turkmenistan,1985,3244018.00
+Turkmenistan,1980,2876808.00
+Turkmenistan,1975,2525364.00
+Turkmenistan,1970,2195175.00
+Turkmenistan,1965,1892599.00
+Turkmenistan,1960,1603258.00
+Turkmenistan,1955,1364635.00
+El Salvador,2020,6486205.00
+El Salvador,2019,6453553.00
+El Salvador,2018,6420746.00
+El Salvador,2017,6388126.00
+El Salvador,2016,6356143.00
+El Salvador,2015,6325124.00
+El Salvador,2010,6183875.00
+El Salvador,2005,6052123.00
+El Salvador,2000,5887936.00
+El Salvador,1995,5628600.00
+El Salvador,1990,5270079.00
+El Salvador,1985,4936807.00
+El Salvador,1980,4591134.00
+El Salvador,1975,4154692.00
+El Salvador,1970,3673068.00
+El Salvador,1965,3201313.00
+El Salvador,1960,2766324.00
+El Salvador,1955,2432880.00
+Kyrgyzstan,2020,6524195.00
+Kyrgyzstan,2019,6415850.00
+Kyrgyzstan,2018,6304030.00
+Kyrgyzstan,2017,6189733.00
+Kyrgyzstan,2016,6074330.00
+Kyrgyzstan,2015,5959121.00
+Kyrgyzstan,2010,5422293.00
+Kyrgyzstan,2005,5075347.00
+Kyrgyzstan,2000,4920712.00
+Kyrgyzstan,1995,4566096.00
+Kyrgyzstan,1990,4372885.00
+Kyrgyzstan,1985,3993071.00
+Kyrgyzstan,1980,3610970.00
+Kyrgyzstan,1975,3291078.00
+Kyrgyzstan,1970,2969851.00
+Kyrgyzstan,1965,2569452.00
+Kyrgyzstan,1960,2170094.00
+Kyrgyzstan,1955,1904062.00
+Nicaragua,2020,6624554.00
+Nicaragua,2019,6545502.00
+Nicaragua,2018,6465501.00
+Nicaragua,2017,6384846.00
+Nicaragua,2016,6303974.00
+Nicaragua,2015,6223240.00
+Nicaragua,2010,5824065.00
+Nicaragua,2005,5438690.00
+Nicaragua,2000,5069302.00
+Nicaragua,1995,4652185.00
+Nicaragua,1990,4173434.00
+Nicaragua,1985,3734341.00
+Nicaragua,1980,3265519.00
+Nicaragua,1975,2806857.00
+Nicaragua,1970,2406513.00
+Nicaragua,1965,2068381.00
+Nicaragua,1960,1773129.00
+Nicaragua,1955,1508102.00
+Lebanon,2020,6825445.00
+Lebanon,2019,6855713.00
+Lebanon,2018,6859408.00
+Lebanon,2017,6819373.00
+Lebanon,2016,6714281.00
+Lebanon,2015,6532678.00
+Lebanon,2010,4953061.00
+Lebanon,2005,4698763.00
+Lebanon,2000,3842778.00
+Lebanon,1995,3528380.00
+Lebanon,1990,2803044.00
+Lebanon,1985,2651995.00
+Lebanon,1980,2588929.00
+Lebanon,1975,2575749.00
+Lebanon,1970,2297434.00
+Lebanon,1965,2092375.00
+Lebanon,1960,1804941.00
+Lebanon,1955,1532115.00
+Libya,2020,6871292.00
+Libya,2019,6777452.00
+Libya,2018,6678559.00
+Libya,2017,6580724.00
+Libya,2016,6492162.00
+Libya,2015,6418315.00
+Libya,2010,6197663.00
+Libya,2005,5798614.00
+Libya,2000,5357891.00
+Libya,1995,4948798.00
+Libya,1990,4436661.00
+Libya,1985,3873781.00
+Libya,1980,3219466.00
+Libya,1975,2645139.00
+Libya,1970,2133526.00
+Libya,1965,1733306.00
+Libya,1960,1448417.00
+Libya,1955,1245358.00
+Bulgaria,2020,6948445.00
+Bulgaria,2019,7000119.00
+Bulgaria,2018,7051608.00
+Bulgaria,2017,7102444.00
+Bulgaria,2016,7151953.00
+Bulgaria,2015,7199741.00
+Bulgaria,2010,7425008.00
+Bulgaria,2005,7686962.00
+Bulgaria,2000,7997957.00
+Bulgaria,1995,8379308.00
+Bulgaria,1990,8841458.00
+Bulgaria,1985,8975361.00
+Bulgaria,1980,8878791.00
+Bulgaria,1975,8738392.00
+Bulgaria,1970,8507551.00
+Bulgaria,1965,8222589.00
+Bulgaria,1960,7885607.00
+Bulgaria,1955,7561493.00
+Paraguay,2020,7132538.00
+Paraguay,2019,7044636.00
+Paraguay,2018,6956066.00
+Paraguay,2017,6867061.00
+Paraguay,2016,6777872.00
+Paraguay,2015,6688746.00
+Paraguay,2010,6248020.00
+Paraguay,2005,5824096.00
+Paraguay,2000,5323201.00
+Paraguay,1995,4776843.00
+Paraguay,1990,4223415.00
+Paraguay,1985,3676210.00
+Paraguay,1980,3181625.00
+Paraguay,1975,2791241.00
+Paraguay,1970,2474763.00
+Paraguay,1965,2172306.00
+Paraguay,1960,1903982.00
+Paraguay,1955,1673665.00
+Laos,2020,7275560.00
+Laos,2019,7169455.00
+Laos,2018,7061507.00
+Laos,2017,6953035.00
+Laos,2016,6845846.00
+Laos,2015,6741164.00
+Laos,2010,6249165.00
+Laos,2005,5751676.00
+Laos,2000,5323700.00
+Laos,1995,4846483.00
+Laos,1990,4258472.00
+Laos,1985,3687898.00
+Laos,1980,3258144.00
+Laos,1975,3051577.00
+Laos,1970,2688428.00
+Laos,1965,2382594.00
+Laos,1960,2120898.00
+Laos,1955,1890854.00
+Hong Kong,2020,7496981.00
+Hong Kong,2019,7436154.00
+Hong Kong,2018,7371730.00
+Hong Kong,2017,7306322.00
+Hong Kong,2016,7243542.00
+Hong Kong,2015,7185996.00
+Hong Kong,2010,6966331.00
+Hong Kong,2005,6769574.00
+Hong Kong,2000,6606327.00
+Hong Kong,1995,6084227.00
+Hong Kong,1990,5727938.00
+Hong Kong,1985,5287022.00
+Hong Kong,1980,4868742.00
+Hong Kong,1975,4208955.00
+Hong Kong,1970,3848924.00
+Hong Kong,1965,3467220.00
+Hong Kong,1960,3046050.00
+Hong Kong,1955,2472658.00
+Sierra Leone,2020,7976983.00
+Sierra Leone,2019,7813215.00
+Sierra Leone,2018,7650150.00
+Sierra Leone,2017,7488423.00
+Sierra Leone,2016,7328834.00
+Sierra Leone,2015,7171914.00
+Sierra Leone,2010,6415634.00
+Sierra Leone,2005,5645624.00
+Sierra Leone,2000,4584571.00
+Sierra Leone,1995,4303957.00
+Sierra Leone,1990,4319762.00
+Sierra Leone,1985,3805311.00
+Sierra Leone,1980,3388495.00
+Sierra Leone,1975,3037154.00
+Sierra Leone,1970,2744891.00
+Sierra Leone,1965,2508219.00
+Sierra Leone,1960,2317636.00
+Sierra Leone,1955,2165815.00
+Togo,2020,8278724.00
+Togo,2019,8082366.00
+Togo,2018,7889093.00
+Togo,2017,7698474.00
+Togo,2016,7509951.00
+Togo,2015,7323158.00
+Togo,2010,6421679.00
+Togo,2005,5611640.00
+Togo,2000,4924402.00
+Togo,1995,4226291.00
+Togo,1990,3774312.00
+Togo,1985,3252994.00
+Togo,1980,2720839.00
+Togo,1975,2410446.00
+Togo,1970,2115522.00
+Togo,1965,1708630.00
+Togo,1960,1580513.00
+Togo,1955,1473839.00
+Switzerland,2020,8654622.00
+Switzerland,2019,8591365.00
+Switzerland,2018,8525611.00
+Switzerland,2017,8455804.00
+Switzerland,2016,8379917.00
+Switzerland,2015,8296775.00
+Switzerland,2010,7808675.00
+Switzerland,2005,7386816.00
+Switzerland,2000,7143761.00
+Switzerland,1995,6995521.00
+Switzerland,1990,6652868.00
+Switzerland,1985,6435424.00
+Switzerland,1980,6283832.00
+Switzerland,1975,6337025.00
+Switzerland,1970,6150852.00
+Switzerland,1965,5812851.00
+Switzerland,1960,5280680.00
+Switzerland,1955,4957066.00
+Israel,2020,8655535.00
+Israel,2019,8519377.00
+Israel,2018,8381516.00
+Israel,2017,8243848.00
+Israel,2016,8108985.00
+Israel,2015,7978490.00
+Israel,2010,7346446.00
+Israel,2005,6529479.00
+Israel,2000,5945950.00
+Israel,1995,5271367.00
+Israel,1990,4448353.00
+Israel,1985,4035068.00
+Israel,1980,3700919.00
+Israel,1975,3296935.00
+Israel,1970,2813749.00
+Israel,1965,2490317.00
+Israel,1960,2060480.00
+Israel,1955,1691878.00
+Serbia,2020,8737371.00
+Serbia,2019,8772235.00
+Serbia,2018,8802754.00
+Serbia,2017,8829628.00
+Serbia,2016,8853963.00
+Serbia,2015,8876777.00
+Serbia,2010,8991254.00
+Serbia,2005,9193825.00
+Serbia,2000,9487616.00
+Serbia,1995,9884147.00
+Serbia,1990,9517675.00
+Serbia,1985,9253405.00
+Serbia,1980,8908294.00
+Serbia,1975,8497170.00
+Serbia,1970,8119860.00
+Serbia,1965,7835083.00
+Serbia,1960,7556727.00
+Serbia,1955,7234922.00
+Papua New Guinea,2020,8947024.00
+Papua New Guinea,2019,8776109.00
+Papua New Guinea,2018,8606323.00
+Papua New Guinea,2017,8438036.00
+Papua New Guinea,2016,8271762.00
+Papua New Guinea,2015,8107775.00
+Papua New Guinea,2010,7310507.00
+Papua New Guinea,2005,6494903.00
+Papua New Guinea,2000,5847586.00
+Papua New Guinea,1995,5187060.00
+Papua New Guinea,1990,4615839.00
+Papua New Guinea,1985,4081030.00
+Papua New Guinea,1980,3571205.00
+Papua New Guinea,1975,3139945.00
+Papua New Guinea,1970,2783121.00
+Papua New Guinea,1965,2485437.00
+Papua New Guinea,1960,2255859.00
+Papua New Guinea,1955,2086247.00
+Austria,2020,9006398.00
+Austria,2019,8955102.00
+Austria,2018,8891388.00
+Austria,2017,8819901.00
+Austria,2016,8747301.00
+Austria,2015,8678660.00
+Austria,2010,8409949.00
+Austria,2005,8253650.00
+Austria,2000,8069276.00
+Austria,1995,7990121.00
+Austria,1990,7723949.00
+Austria,1985,7614868.00
+Austria,1980,7609752.00
+Austria,1975,7637689.00
+Austria,1970,7516239.00
+Austria,1965,7305158.00
+Austria,1960,7070766.00
+Austria,1955,6953406.00
+Tajikistan,2020,9537645.00
+Tajikistan,2019,9321018.00
+Tajikistan,2018,9100835.00
+Tajikistan,2017,8880268.00
+Tajikistan,2016,8663579.00
+Tajikistan,2015,8454028.00
+Tajikistan,2010,7527394.00
+Tajikistan,2005,6789321.00
+Tajikistan,2000,6216341.00
+Tajikistan,1995,5764810.00
+Tajikistan,1990,5283814.00
+Tajikistan,1985,4537822.00
+Tajikistan,1980,3905446.00
+Tajikistan,1975,3390941.00
+Tajikistan,1970,2930107.00
+Tajikistan,1965,2487976.00
+Tajikistan,1960,2087049.00
+Tajikistan,1955,1794416.00
+Belarus,2020,9449323.00
+Belarus,2019,9452411.00
+Belarus,2018,9452617.00
+Belarus,2017,9450231.00
+Belarus,2016,9445643.00
+Belarus,2015,9439423.00
+Belarus,2010,9420574.00
+Belarus,2005,9562088.00
+Belarus,2000,9871632.00
+Belarus,1995,10077608.00
+Belarus,1990,10151134.00
+Belarus,1985,9901493.00
+Belarus,1980,9569847.00
+Belarus,1975,9252779.00
+Belarus,1970,8913552.00
+Belarus,1965,8505722.00
+Belarus,1960,8124881.00
+Belarus,1955,7747210.00
+Hungary,2020,9660351.00
+Hungary,2019,9684679.00
+Hungary,2018,9707499.00
+Hungary,2017,9729823.00
+Hungary,2016,9752975.00
+Hungary,2015,9777923.00
+Hungary,2010,9927370.00
+Hungary,2005,10085937.00
+Hungary,2000,10220507.00
+Hungary,1995,10349302.00
+Hungary,1990,10377137.00
+Hungary,1985,10566323.00
+Hungary,1980,10754286.00
+Hungary,1975,10526780.00
+Hungary,1970,10366105.00
+Hungary,1965,10169799.00
+Hungary,1960,10000994.00
+Hungary,1955,9828494.00
+United Arab Emirates,2020,9890402.00
+United Arab Emirates,2019,9770529.00
+United Arab Emirates,2018,9630959.00
+United Arab Emirates,2017,9487203.00
+United Arab Emirates,2016,9360980.00
+United Arab Emirates,2015,9262900.00
+United Arab Emirates,2010,8549988.00
+United Arab Emirates,2005,4588225.00
+United Arab Emirates,2000,3134062.00
+United Arab Emirates,1995,2415090.00
+United Arab Emirates,1990,1828432.00
+United Arab Emirates,1985,1366164.00
+United Arab Emirates,1980,1019509.00
+United Arab Emirates,1975,548301.00
+United Arab Emirates,1970,234514.00
+United Arab Emirates,1965,149857.00
+United Arab Emirates,1960,92418.00
+United Arab Emirates,1955,79578.00
+Honduras,2020,9904607.00
+Honduras,2019,9746117.00
+Honduras,2018,9587522.00
+Honduras,2017,9429013.00
+Honduras,2016,9270795.00
+Honduras,2015,9112916.00
+Honduras,2010,8317470.00
+Honduras,2005,7458985.00
+Honduras,2000,6574509.00
+Honduras,1995,5709014.00
+Honduras,1990,4955303.00
+Honduras,1985,4281161.00
+Honduras,1980,3678279.00
+Honduras,1975,3153253.00
+Honduras,1970,2716654.00
+Honduras,1965,2346015.00
+Honduras,1960,2038632.00
+Honduras,1955,1771352.00
+Sweden,2020,10099265.00
+Sweden,2019,10036379.00
+Sweden,2018,9971638.00
+Sweden,2017,9904896.00
+Sweden,2016,9836007.00
+Sweden,2015,9764950.00
+Sweden,2010,9390168.00
+Sweden,2005,9038623.00
+Sweden,2000,8881640.00
+Sweden,1995,8836420.00
+Sweden,1990,8567384.00
+Sweden,1985,8357652.00
+Sweden,1980,8316338.00
+Sweden,1975,8197340.00
+Sweden,1970,8054916.00
+Sweden,1965,7745673.00
+Sweden,1960,7482543.00
+Sweden,1955,7262623.00
+Azerbaijan,2020,10139177.00
+Azerbaijan,2019,10047718.00
+Azerbaijan,2018,9949537.00
+Azerbaijan,2017,9845320.00
+Azerbaijan,2016,9736043.00
+Azerbaijan,2015,9622745.00
+Azerbaijan,2010,9032461.00
+Azerbaijan,2005,8538605.00
+Azerbaijan,2000,8122741.00
+Azerbaijan,1995,7775424.00
+Azerbaijan,1990,7242761.00
+Azerbaijan,1985,6666447.00
+Azerbaijan,1980,6150733.00
+Azerbaijan,1975,5674133.00
+Azerbaijan,1970,5180023.00
+Azerbaijan,1965,4592609.00
+Azerbaijan,1960,3895397.00
+Azerbaijan,1955,3329387.00
+Portugal,2020,10196709.00
+Portugal,2019,10226187.00
+Portugal,2018,10256193.00
+Portugal,2017,10288527.00
+Portugal,2016,10325538.00
+Portugal,2015,10368351.00
+Portugal,2010,10596058.00
+Portugal,2005,10508495.00
+Portugal,2000,10297112.00
+Portugal,1995,10091325.00
+Portugal,1990,9895364.00
+Portugal,1985,9929184.00
+Portugal,1980,9750964.00
+Portugal,1975,9172241.00
+Portugal,1970,8651340.00
+Portugal,1965,8862280.00
+Portugal,1960,8844645.00
+Portugal,1955,8625532.00
+Jordan,2020,10203134.00
+Jordan,2019,10101694.00
+Jordan,2018,9965318.00
+Jordan,2017,9785843.00
+Jordan,2016,9554286.00
+Jordan,2015,9266575.00
+Jordan,2010,7261539.00
+Jordan,2005,5765635.00
+Jordan,2000,5122493.00
+Jordan,1995,4588843.00
+Jordan,1990,3565890.00
+Jordan,1985,2900049.00
+Jordan,1980,2377995.00
+Jordan,1975,2065913.00
+Jordan,1970,1721323.00
+Jordan,1965,1173606.00
+Jordan,1960,933102.00
+Jordan,1955,682968.00
+Greece,2020,10423054.00
+Greece,2019,10473455.00
+Greece,2018,10522246.00
+Greece,2017,10569450.00
+Greece,2016,10615185.00
+Greece,2015,10659750.00
+Greece,2010,10887637.00
+Greece,2005,11224791.00
+Greece,2000,11082104.00
+Greece,1995,10745503.00
+Greece,1990,10225992.00
+Greece,1985,9968238.00
+Greece,1980,9627002.00
+Greece,1975,9014085.00
+Greece,1970,8663571.00
+Greece,1965,8453821.00
+Greece,1960,8273629.00
+Greece,1955,8011124.00
+Czech Republic (Czechia),2020,10708981.00
+Czech Republic (Czechia),2019,10689209.00
+Czech Republic (Czechia),2018,10665677.00
+Czech Republic (Czechia),2017,10641034.00
+Czech Republic (Czechia),2016,10618857.00
+Czech Republic (Czechia),2015,10601397.00
+Czech Republic (Czechia),2010,10536518.00
+Czech Republic (Czechia),2005,10258167.00
+Czech Republic (Czechia),2000,10289373.00
+Czech Republic (Czechia),1995,10358193.00
+Czech Republic (Czechia),1990,10340875.00
+Czech Republic (Czechia),1985,10331143.00
+Czech Republic (Czechia),1980,10349083.00
+Czech Republic (Czechia),1975,10069955.00
+Czech Republic (Czechia),1970,9817669.00
+Czech Republic (Czechia),1965,9811377.00
+Czech Republic (Czechia),1960,9590174.00
+Czech Republic (Czechia),1955,9361772.00
+Cuba,2020,11326616.00
+Cuba,2019,11333483.00
+Cuba,2018,11338134.00
+Cuba,2017,11339254.00
+Cuba,2016,11335104.00
+Cuba,2015,11324781.00
+Cuba,2010,11225832.00
+Cuba,2005,11261582.00
+Cuba,2000,11126430.00
+Cuba,1995,10888252.00
+Cuba,1990,10596987.00
+Cuba,1985,10097911.00
+Cuba,1980,9849459.00
+Cuba,1975,9446442.00
+Cuba,1970,8712541.00
+Cuba,1965,7958169.00
+Cuba,1960,7141250.00
+Cuba,1955,6539454.00
+South Sudan,2020,11193725.00
+South Sudan,2019,11062113.00
+South Sudan,2018,10975927.00
+South Sudan,2017,10910763.00
+South Sudan,2016,10832518.00
+South Sudan,2015,10715658.00
+South Sudan,2010,9508364.00
+South Sudan,2005,7535932.00
+South Sudan,2000,6199394.00
+South Sudan,1995,5118083.00
+South Sudan,1990,5492623.00
+South Sudan,1985,5220747.00
+South Sudan,1980,4502604.00
+South Sudan,1975,3941618.00
+South Sudan,1970,3494004.00
+South Sudan,1965,3133150.00
+South Sudan,1960,2842724.00
+South Sudan,1955,2619712.00
+Haiti,2020,11402528.00
+Haiti,2019,11263077.00
+Haiti,2018,11123178.00
+Haiti,2017,10982366.00
+Haiti,2016,10839970.00
+Haiti,2015,10695542.00
+Haiti,2010,9949322.00
+Haiti,2005,9195288.00
+Haiti,2000,8463806.00
+Haiti,1995,7744503.00
+Haiti,1990,7037917.00
+Haiti,1985,6337273.00
+Haiti,1980,5643173.00
+Haiti,1975,5094577.00
+Haiti,1970,4676230.00
+Haiti,1965,4258732.00
+Haiti,1960,3866159.00
+Haiti,1955,3514074.00
+Belgium,2020,11589623.00
+Belgium,2019,11539328.00
+Belgium,2018,11482178.00
+Belgium,2017,11419748.00
+Belgium,2016,11354420.00
+Belgium,2015,11287940.00
+Belgium,2010,10938739.00
+Belgium,2005,10546886.00
+Belgium,2000,10282033.00
+Belgium,1995,10186305.00
+Belgium,1990,10006544.00
+Belgium,1985,9916578.00
+Belgium,1980,9868995.00
+Belgium,1975,9771586.00
+Belgium,1970,9632180.00
+Belgium,1965,9443939.00
+Belgium,1960,9167365.00
+Belgium,1955,8887274.00
+Dominican Republic,2020,10847910.00
+Dominican Republic,2019,10738958.00
+Dominican Republic,2018,10627141.00
+Dominican Republic,2017,10513104.00
+Dominican Republic,2016,10397741.00
+Dominican Republic,2015,10281680.00
+Dominican Republic,2010,9695121.00
+Dominican Republic,2005,9097257.00
+Dominican Republic,2000,8471321.00
+Dominican Republic,1995,7819247.00
+Dominican Republic,1990,7133494.00
+Dominican Republic,1985,6464229.00
+Dominican Republic,1980,5803927.00
+Dominican Republic,1975,5144637.00
+Dominican Republic,1970,4499720.00
+Dominican Republic,1965,3877765.00
+Dominican Republic,1960,3294224.00
+Dominican Republic,1955,2781336.00
+Tunisia,2020,11818619.00
+Tunisia,2019,11694719.00
+Tunisia,2018,11565201.00
+Tunisia,2017,11433443.00
+Tunisia,2016,11303945.00
+Tunisia,2015,11179949.00
+Tunisia,2010,10635244.00
+Tunisia,2005,10106771.00
+Tunisia,2000,9708350.00
+Tunisia,1995,9125398.00
+Tunisia,1990,8242496.00
+Tunisia,1985,7329594.00
+Tunisia,1980,6374039.00
+Tunisia,1975,5656914.00
+Bolivia,2020,11673021.00
+Bolivia,2019,11513100.00
+Bolivia,2018,11353142.00
+Bolivia,2017,11192855.00
+Bolivia,2016,11031814.00
+Bolivia,2015,10869730.00
+Bolivia,2010,10048590.00
+Bolivia,2005,9232306.00
+Bolivia,2000,8418264.00
+Bolivia,1995,7622338.00
+Bolivia,1990,6864842.00
+Bolivia,1985,6179460.00
+Bolivia,1980,5579935.00
+Bolivia,1975,5001419.00
+Bolivia,1970,4484004.00
+Bolivia,1965,4038872.00
+Bolivia,1960,3656955.00
+Bolivia,1955,3331036.00
+Tunisia,1970,5063809.00
+Tunisia,1965,4547941.00
+Tunisia,1960,4178236.00
+Tunisia,1955,3943540.00
+Burundi,2020,11890784.00
+Burundi,2019,11530580.00
+Burundi,2018,11175374.00
+Burundi,2017,10827019.00
+Burundi,2016,10487995.00
+Burundi,2015,10160030.00
+Burundi,2010,8675602.00
+Burundi,2005,7364862.00
+Burundi,2000,6378871.00
+Burundi,1995,5987043.00
+Burundi,1990,5438957.00
+Burundi,1985,4750837.00
+Burundi,1980,4157298.00
+Burundi,1975,3700880.00
+Burundi,1970,3479074.00
+Burundi,1965,3094379.00
+Burundi,1960,2797932.00
+Burundi,1955,2537157.00
+Benin,2020,12123200.00
+Benin,2019,11801151.00
+Benin,2018,11485044.00
+Benin,2017,11175198.00
+Benin,2016,10872063.00
+Benin,2015,10575952.00
+Benin,2010,9199259.00
+Benin,2005,7982225.00
+Benin,2000,6865951.00
+Benin,1995,5905558.00
+Benin,1990,4978496.00
+Benin,1985,4278501.00
+Benin,1980,3717165.00
+Benin,1975,3265165.00
+Benin,1970,2912340.00
+Benin,1965,2632356.00
+Benin,1960,2431622.00
+Benin,1955,2303587.00
+Rwanda,2020,12952218.00
+Rwanda,2019,12626950.00
+Rwanda,2018,12301970.00
+Rwanda,2017,11980961.00
+Rwanda,2016,11668827.00
+Rwanda,2015,11369071.00
+Rwanda,2010,10039338.00
+Rwanda,2005,8840215.00
+Rwanda,2000,7933681.00
+Rwanda,1995,5836495.00
+Rwanda,1990,7288882.00
+Rwanda,1985,6146891.00
+Rwanda,1980,5153312.00
+Rwanda,1975,4364706.00
+Rwanda,1970,3757358.00
+Rwanda,1965,3235531.00
+Rwanda,1960,2935582.00
+Rwanda,1955,2527294.00
+Guinea,2020,13132795.00
+Guinea,2019,12771246.00
+Guinea,2018,12414293.00
+Guinea,2017,12067519.00
+Guinea,2016,11738429.00
+Guinea,2015,11432088.00
+Guinea,2010,10192176.00
+Guinea,2005,9109581.00
+Guinea,2000,8240730.00
+Guinea,1995,7269625.00
+Guinea,1990,6352283.00
+Guinea,1985,5470702.00
+Guinea,1980,4871435.00
+Guinea,1975,4491248.00
+Guinea,1970,4154605.00
+Guinea,1965,3801705.00
+Guinea,1960,3494162.00
+Guinea,1955,3229649.00
+Zimbabwe,2020,14862924.00
+Zimbabwe,2019,14645468.00
+Zimbabwe,2018,14438802.00
+Zimbabwe,2017,14236595.00
+Zimbabwe,2016,14030331.00
+Zimbabwe,2015,13814629.00
+Zimbabwe,2010,12697723.00
+Zimbabwe,2005,12076699.00
+Zimbabwe,2000,11881477.00
+Zimbabwe,1995,11410714.00
+Zimbabwe,1990,10432421.00
+Zimbabwe,1985,8877489.00
+Zimbabwe,1980,7408624.00
+Zimbabwe,1975,6293875.00
+Zimbabwe,1970,5289303.00
+Zimbabwe,1965,4471177.00
+Zimbabwe,1960,3776681.00
+Zimbabwe,1955,3213286.00
+Cambodia,2020,16718965.00
+Cambodia,2019,16486542.00
+Somalia,2020,15893222.00
+Somalia,2019,15442905.00
+Somalia,2018,15008226.00
+Somalia,2017,14589179.00
+Somalia,2016,14185636.00
+Somalia,2015,13797201.00
+Somalia,2010,12043883.00
+Somalia,2005,10446863.00
+Somalia,2000,8872254.00
+Somalia,1995,7491637.00
+Somalia,1990,7225092.00
+Somalia,1985,6648627.00
+Somalia,1980,6281134.00
+Somalia,1975,3880292.00
+Somalia,1970,3444568.00
+Cambodia,2018,16249792.00
+Cambodia,2017,16009409.00
+Cambodia,2016,15766292.00
+Cambodia,2015,15521436.00
+Cambodia,2010,14312212.00
+Cambodia,2005,13273354.00
+Cambodia,2000,12155239.00
+Cambodia,1995,10656138.00
+Cambodia,1990,8975597.00
+Cambodia,1985,7714880.00
+Cambodia,1980,6693764.00
+Cambodia,1975,7524447.00
+Cambodia,1970,6996576.00
+Cambodia,1965,6467197.00
+Cambodia,1960,5722370.00
+Cambodia,1955,5045288.00
+Somalia,1965,3068459.00
+Somalia,1960,2755972.00
+Somalia,1955,2491542.00
+Senegal,2020,16743927.00
+Senegal,2019,16296364.00
+Senegal,2018,15854323.00
+Senegal,2017,15419355.00
+Senegal,2016,14993519.00
+Senegal,2015,14578459.00
+Senegal,2010,12678148.00
+Senegal,2005,11090116.00
+Senegal,2000,9797734.00
+Senegal,1995,8690164.00
+Senegal,1990,7526307.00
+Senegal,1985,6471327.00
+Senegal,1980,5583165.00
+Senegal,1975,4929846.00
+Senegal,1970,4257505.00
+Senegal,1965,3682876.00
+Senegal,1960,3206749.00
+Senegal,1955,2808225.00
+Chad,2020,16425864.00
+Chad,2019,15946876.00
+Chad,2018,15477729.00
+Chad,2017,15016753.00
+Chad,2016,14561660.00
+Chad,2015,14110975.00
+Chad,2010,11952136.00
+Chad,2005,10096633.00
+Chad,2000,8355654.00
+Chad,1995,7010145.00
+Chad,1990,5963252.00
+Chad,1985,5095401.00
+Chad,1980,4514430.00
+Chad,1975,4088564.00
+Chad,1970,3643604.00
+Chad,1965,3309586.00
+Chad,1960,3001609.00
+Chad,1955,2735198.00
+Netherlands,2020,17134872.00
+Netherlands,2019,17097130.00
+Netherlands,2018,17059560.00
+Netherlands,2017,17021347.00
+Netherlands,2016,16981295.00
+Netherlands,2015,16938499.00
+Netherlands,2010,16682917.00
+Netherlands,2005,16367158.00
+Netherlands,2000,15926188.00
+Netherlands,1995,15467851.00
+Netherlands,1990,14965448.00
+Netherlands,1985,14513949.00
+Netherlands,1980,14148415.00
+Netherlands,1975,13683291.00
+Netherlands,1970,13001943.00
+Netherlands,1965,12248344.00
+Netherlands,1960,11448817.00
+Netherlands,1955,10709630.00
+Ecuador,2020,17643054.00
+Ecuador,2019,17373662.00
+Ecuador,2018,17084358.00
+Ecuador,2017,16785361.00
+Ecuador,2016,16491116.00
+Ecuador,2015,16212020.00
+Ecuador,2010,15011117.00
+Ecuador,2005,13825847.00
+Ecuador,2000,12681123.00
+Ecuador,1995,11455204.00
+Ecuador,1990,10230934.00
+Ecuador,1985,9066109.00
+Ecuador,1980,7989186.00
+Ecuador,1975,6994334.00
+Ecuador,1970,6069376.00
+Ecuador,1965,5243977.00
+Ecuador,1960,4543666.00
+Ecuador,1955,3956620.00
+Syria,2020,17500658.00
+Syria,2019,17070135.00
+Syria,2018,16945057.00
+Syria,2017,17095678.00
+Syria,2016,17465575.00
+Syria,2015,17997408.00
+Syria,2010,21362529.00
+Syria,2005,18361176.00
+Syria,2000,16410848.00
+Syria,1995,14345492.00
+Syria,1990,12446171.00
+Syria,1985,10648632.00
+Syria,1980,8930774.00
+Syria,1975,7535714.00
+Syria,1970,6350541.00
+Syria,1965,5373137.00
+Syria,1960,4573512.00
+Syria,1955,3911501.00
+Guatemala,2020,17915568.00
+Guatemala,2019,17581472.00
+Guatemala,2018,17247849.00
+Guatemala,2017,16914970.00
+Guatemala,2016,16583076.00
+Guatemala,2015,16252429.00
+Guatemala,2010,14630417.00
+Guatemala,2005,13096028.00
+Guatemala,2000,11650743.00
+Guatemala,1995,10408489.00
+Guatemala,1990,9263813.00
+Guatemala,1985,8240060.00
+Guatemala,1980,7283459.00
+Guatemala,1975,6433728.00
+Guatemala,1970,5621792.00
+Guatemala,1965,4869716.00
+Guatemala,1960,4210747.00
+Guatemala,1955,3625300.00
+Kazakhstan,2020,18776707.00
+Kazakhstan,2019,18551427.00
+Zambia,2020,18383955.00
+Zambia,2019,17861030.00
+Zambia,2018,17351708.00
+Zambia,2017,16853599.00
+Zambia,2016,16363458.00
+Zambia,2015,15879361.00
+Zambia,2010,13605984.00
+Zambia,2005,11856247.00
+Zambia,2000,10415944.00
+Zambia,1995,9096607.00
+Zambia,1990,8036845.00
+Zambia,1985,6923149.00
+Zambia,1980,5851825.00
+Zambia,1975,4943283.00
+Zambia,1970,4179067.00
+Kazakhstan,2018,18319618.00
+Kazakhstan,2017,18080019.00
+Kazakhstan,2016,17830901.00
+Kazakhstan,2015,17572016.00
+Kazakhstan,2010,16252279.00
+Kazakhstan,2005,15402807.00
+Kazakhstan,2000,14922719.00
+Kazakhstan,1995,15839363.00
+Kazakhstan,1990,16383887.00
+Kazakhstan,1985,15665595.00
+Kazakhstan,1980,14796174.00
+Kazakhstan,1975,14050226.00
+Kazakhstan,1970,13036139.00
+Kazakhstan,1965,11841920.00
+Kazakhstan,1960,9934563.00
+Kazakhstan,1955,7932521.00
+Zambia,1965,3570464.00
+Zambia,1960,3070776.00
+Zambia,1955,2644976.00
+Chile,2020,19116201.00
+Chile,2019,18952038.00
+Chile,2018,18729160.00
+Chile,2017,18470439.00
+Chile,2016,18209068.00
+Chile,2015,17969353.00
+Chile,2010,17062536.00
+Chile,2005,16182721.00
+Chile,2000,15342353.00
+Chile,1995,14380866.00
+Chile,1990,13274623.00
+Chile,1985,12257236.00
+Chile,1980,11419348.00
+Chile,1975,10592307.00
+Chile,1970,9783134.00
+Chile,1965,8989621.00
+Chile,1960,8132990.00
+Chile,1955,7322652.00
+Malawi,2020,19129952.00
+Malawi,2019,18628747.00
+Malawi,2018,18143217.00
+Malawi,2017,17670196.00
+Malawi,2016,17205261.00
+Malawi,2015,16745303.00
+Malawi,2010,14539612.00
+Malawi,2005,12625952.00
+Malawi,2000,11148758.00
+Malawi,1995,9844415.00
+Malawi,1990,9404500.00
+Malawi,1985,7268267.00
+Malawi,1980,6250440.00
+Malawi,1975,5384795.00
+Malawi,1970,4703782.00
+Malawi,1965,4134460.00
+Malawi,1960,3659984.00
+Malawi,1955,3270548.00
+Romania,2020,19237691.00
+Romania,2019,19364557.00
+Romania,2018,19506114.00
+Romania,2017,19653969.00
+Romania,2016,19796285.00
+Romania,2015,19925175.00
+Romania,2010,20471864.00
+Romania,2005,21417291.00
+Romania,2000,22137419.00
+Romania,1995,22964754.00
+Romania,1990,23489160.00
+Romania,1985,23071274.00
+Romania,1980,22615639.00
+Romania,1975,21665643.00
+Romania,1970,20548911.00
+Romania,1965,19379568.00
+Romania,1960,18613939.00
+Romania,1955,17483935.00
+Mali,2020,20250833.00
+Mali,2019,19658031.00
+Mali,2018,19077749.00
+Mali,2017,18512430.00
+Mali,2016,17965443.00
+Mali,2015,17438778.00
+Mali,2010,15049353.00
+Mali,2005,12775516.00
+Mali,2000,10946445.00
+Mali,1995,9585653.00
+Mali,1990,8449913.00
+Mali,1985,7831889.00
+Mali,1980,7090126.00
+Mali,1975,6482278.00
+Mali,1970,5949045.00
+Mali,1965,5568484.00
+Mali,1960,5263733.00
+Mali,1955,4975398.00
+Sri Lanka,2020,21413249.00
+Sri Lanka,2019,21323733.00
+Sri Lanka,2018,21228763.00
+Sri Lanka,2017,21128032.00
+Sri Lanka,2016,21021171.00
+Sri Lanka,2015,20908027.00
+Sri Lanka,2010,20261737.00
+Sri Lanka,2005,19544988.00
+Sri Lanka,2000,18777601.00
+Sri Lanka,1995,18242912.00
+Sri Lanka,1990,17325773.00
+Sri Lanka,1985,16176280.00
+Sri Lanka,1980,15035834.00
+Sri Lanka,1975,13755146.00
+Sri Lanka,1970,12485740.00
+Sri Lanka,1965,11110820.00
+Sri Lanka,1960,9874476.00
+Sri Lanka,1955,8778438.00
+Burkina Faso,2020,20903273.00
+Burkina Faso,2019,20321378.00
+Burkina Faso,2018,19751466.00
+Burkina Faso,2017,19193234.00
+Burkina Faso,2016,18646357.00
+Burkina Faso,2015,18110624.00
+Burkina Faso,2010,15605217.00
+Burkina Faso,2005,13421930.00
+Burkina Faso,2000,11607942.00
+Burkina Faso,1995,10089878.00
+Burkina Faso,1990,8811034.00
+Burkina Faso,1985,7727907.00
+Burkina Faso,1980,6822843.00
+Burkina Faso,1975,6154545.00
+Burkina Faso,1970,5624600.00
+Burkina Faso,1965,5174870.00
+Burkina Faso,1960,4829288.00
+Burkina Faso,1955,4517155.00
+Niger,2020,24206644.00
+Niger,2019,23310715.00
+Niger,2018,22442822.00
+Niger,2017,21602382.00
+Niger,2016,20788798.00
+Niger,2015,20001663.00
+Niger,2010,16464025.00
+Niger,2005,13624467.00
+Niger,2000,11331557.00
+Niger,1995,9490288.00
+Niger,1990,8026591.00
+Niger,1985,6915997.00
+Niger,1980,5989004.00
+Niger,1975,5184941.00
+Niger,1970,4510644.00
+Niger,1965,3914117.00
+Niger,1960,3388764.00
+Niger,1955,2955541.00
+Australia,2020,25499884.00
+Australia,2019,25203198.00
+Australia,2018,24898152.00
+Australia,2017,24584620.00
+Australia,2016,24262712.00
+Australia,2015,23932502.00
+Australia,2010,22154679.00
+Australia,2005,20178540.00
+Australia,2000,18991431.00
+Australia,1995,17993074.00
+Australia,1990,16960597.00
+Australia,1985,15663663.00
+Australia,1980,14588405.00
+Australia,1975,13773288.00
+Australia,1970,12793034.00
+Australia,1965,11313195.00
+Australia,1960,10242076.00
+Australia,1955,9165707.00
+Taiwan,2020,23816775.00
+Taiwan,2019,23773876.00
+Taiwan,2018,23726460.00
+Taiwan,2017,23674546.00
+Taiwan,2016,23618200.00
+Taiwan,2015,23557477.00
+Taiwan,2010,23187551.00
+Taiwan,2005,22705713.00
+Taiwan,2000,21966527.00
+Taiwan,1995,21356033.00
+Taiwan,1990,20478520.00
+Taiwan,1985,19303404.00
+Taiwan,1980,17905458.00
+Taiwan,1975,16464927.00
+Taiwan,1970,14924455.00
+Taiwan,1965,12901155.00
+Taiwan,1960,10876150.00
+Taiwan,1955,9189972.00
+North Korea,2020,25778816.00
+North Korea,2019,25666161.00
+North Korea,2018,25549604.00
+North Korea,2017,25429825.00
+North Korea,2016,25307665.00
+North Korea,2015,25183833.00
+North Korea,2010,24548836.00
+North Korea,2005,23904167.00
+North Korea,2000,22929075.00
+North Korea,1995,21862299.00
+North Korea,1990,20293054.00
+North Korea,1985,18877238.00
+North Korea,1980,17472140.00
+North Korea,1975,16274740.00
+North Korea,1970,14410400.00
+North Korea,1965,12547525.00
+North Korea,1960,11424176.00
+North Korea,1955,10086991.00
+Côte d'Ivoire,2020,26378274.00
+Côte d'Ivoire,2019,25716544.00
+Côte d'Ivoire,2018,25069230.00
+Côte d'Ivoire,2017,24437470.00
+Côte d'Ivoire,2016,23822714.00
+Côte d'Ivoire,2015,23226143.00
+Côte d'Ivoire,2010,20532950.00
+Côte d'Ivoire,2005,18354514.00
+Côte d'Ivoire,2000,16454668.00
+Côte d'Ivoire,1995,14199762.00
+Côte d'Ivoire,1990,11924877.00
+Côte d'Ivoire,1985,9918196.00
+Côte d'Ivoire,1980,8033650.00
+Côte d'Ivoire,1975,6412403.00
+Côte d'Ivoire,1970,5102064.00
+Côte d'Ivoire,1965,4226844.00
+Côte d'Ivoire,1960,3503553.00
+Côte d'Ivoire,1955,3004421.00
+Cameroon,2020,26545863.00
+Cameroon,2019,25876380.00
+Cameroon,2018,25216267.00
+Cameroon,2017,24566073.00
+Cameroon,2016,23926551.00
+Cameroon,2015,23298368.00
+Cameroon,2010,20341241.00
+Cameroon,2005,17733410.00
+Cameroon,2000,15513945.00
+Cameroon,1995,13599988.00
+Cameroon,1990,11780088.00
+Cameroon,1985,10070806.00
+Cameroon,1980,8621406.00
+Cameroon,1975,7451054.00
+Cameroon,1970,6519762.00
+Cameroon,1965,5773543.00
+Cameroon,1960,5176918.00
+Cameroon,1955,4706995.00
+Madagascar,2020,27691018.00
+Madagascar,2019,26969307.00
+Madagascar,2018,26262313.00
+Madagascar,2017,25570512.00
+Madagascar,2016,24894370.00
+Madagascar,2015,24234088.00
+Madagascar,2010,21151640.00
+Madagascar,2005,18336724.00
+Madagascar,2000,15766806.00
+Madagascar,1995,13475400.00
+Madagascar,1990,11598633.00
+Madagascar,1985,10063495.00
+Madagascar,1980,8716553.00
+Madagascar,1975,7556026.00
+Madagascar,1970,6576305.00
+Madagascar,1965,5769218.00
+Madagascar,1960,5099373.00
+Madagascar,1955,4543542.00
+Venezuela,2020,28435940.00
+Venezuela,2019,28515829.00
+Venezuela,2018,28887118.00
+Venezuela,2017,29402484.00
+Venezuela,2016,29851255.00
+Venezuela,2015,30081829.00
+Venezuela,2010,28439940.00
+Venezuela,2005,26432447.00
+Venezuela,2000,24192446.00
+Venezuela,1995,21931084.00
+Venezuela,1990,19632665.00
+Venezuela,1985,17319520.00
+Venezuela,1980,15182611.00
+Venezuela,1975,13189509.00
+Venezuela,1970,11396393.00
+Venezuela,1965,9692278.00
+Venezuela,1960,8141841.00
+Venezuela,1955,6744695.00
+Nepal,2020,29136808.00
+Nepal,2019,28608710.00
+Nepal,2018,28095714.00
+Nepal,2017,27632681.00
+Nepal,2016,27263433.00
+Yemen,2020,29825964.00
+Yemen,2019,29161922.00
+Yemen,2018,28498683.00
+Yemen,2017,27834819.00
+Yemen,2016,27168208.00
+Yemen,2015,26497889.00
+Yemen,2010,23154855.00
+Yemen,2005,20107409.00
+Yemen,2000,17409072.00
+Yemen,1995,14913315.00
+Yemen,1990,11709993.00
+Yemen,1985,9572175.00
+Yemen,1980,7941898.00
+Yemen,1975,6784695.00
+Yemen,1970,6193384.00
+Yemen,1965,5727751.00
+Yemen,1960,5315355.00
+Yemen,1955,4965574.00
+Nepal,2015,27015031.00
+Nepal,2010,27013212.00
+Nepal,2005,25744500.00
+Nepal,2000,23941110.00
+Nepal,1995,21576071.00
+Nepal,1990,18905478.00
+Nepal,1985,16858310.00
+Nepal,1980,15016402.00
+Nepal,1975,13420369.00
+Nepal,1970,12074626.00
+Nepal,1965,10972912.00
+Nepal,1960,10105050.00
+Nepal,1955,9316916.00
+Ghana,2020,31072940.00
+Ghana,2019,30417856.00
+Ghana,2018,29767102.00
+Ghana,2017,29121465.00
+Ghana,2016,28481945.00
+Ghana,2015,27849205.00
+Ghana,2010,24779619.00
+Ghana,2005,21814642.00
+Ghana,2000,19278856.00
+Ghana,1995,17014057.00
+Ghana,1990,14773277.00
+Ghana,1985,12783613.00
+Ghana,1980,11056116.00
+Ghana,1975,9985946.00
+Ghana,1970,8735495.00
+Ghana,1965,7739473.00
+Ghana,1960,6635230.00
+Mozambique,2020,31255435.00
+Mozambique,2019,30366036.00
+Mozambique,2018,29496004.00
+Mozambique,2017,28649018.00
+Mozambique,2016,27829938.00
+Mozambique,2015,27042002.00
+Mozambique,2010,23531574.00
+Mozambique,2005,20493925.00
+Mozambique,2000,17711927.00
+Mozambique,1995,15483286.00
+Mozambique,1990,12987292.00
+Mozambique,1985,12764387.00
+Mozambique,1980,11630194.00
+Mozambique,1975,10165215.00
+Mozambique,1970,9022741.00
+Mozambique,1965,8039215.00
+Mozambique,1960,7184869.00
+Mozambique,1955,6508398.00
+Ghana,1955,5730594.00
+Malaysia,2020,32365999.00
+Malaysia,2019,31949777.00
+Malaysia,2018,31528033.00
+Malaysia,2017,31104646.00
+Malaysia,2016,30684654.00
+Malaysia,2015,30270962.00
+Malaysia,2010,28208035.00
+Malaysia,2005,25690611.00
+Malaysia,2000,23194257.00
+Malaysia,1995,20487607.00
+Malaysia,1990,18029824.00
+Malaysia,1985,15598927.00
+Malaysia,1980,13798085.00
+Malaysia,1975,12162187.00
+Malaysia,1970,10804131.00
+Malaysia,1965,9526558.00
+Malaysia,1960,8156347.00
+Malaysia,1955,7038913.00
+Angola,2020,32866272.00
+Angola,2019,31825295.00
+Angola,2018,30809787.00
+Angola,2017,29816766.00
+Angola,2016,28842489.00
+Angola,2015,27884381.00
+Angola,2010,23356246.00
+Angola,2005,19433602.00
+Angola,2000,16395473.00
+Angola,1995,13945206.00
+Angola,1990,11848386.00
+Angola,1985,9961997.00
+Angola,1980,8341289.00
+Angola,1975,7024000.00
+Angola,1970,5890365.00
+Angola,1965,5770570.00
+Angola,1960,5454933.00
+Angola,1955,5043247.00
+Peru,2020,32971854.00
+Peru,2019,32510453.00
+Peru,2018,31989260.00
+Peru,2017,31444298.00
+Peru,2016,30926032.00
+Peru,2015,30470734.00
+Peru,2010,29027674.00
+Peru,2005,27866145.00
+Peru,2000,26459944.00
+Peru,1995,24299160.00
+Peru,1990,22071433.00
+Peru,1985,19772872.00
+Peru,1980,17547610.00
+Peru,1975,15424744.00
+Peru,1970,13459794.00
+Peru,1965,11711392.00
+Peru,1960,10155015.00
+Peru,1955,8858389.00
+Uzbekistan,2020,33469203.00
+Uzbekistan,2019,32981716.00
+Uzbekistan,2018,32476244.00
+Uzbekistan,2017,31959785.00
+Uzbekistan,2016,31441751.00
+Uzbekistan,2015,30929557.00
+Uzbekistan,2010,28515909.00
+Uzbekistan,2005,26427789.00
+Uzbekistan,2000,24769955.00
+Uzbekistan,1995,22791026.00
+Uzbekistan,1990,20398348.00
+Uzbekistan,1985,18061284.00
+Uzbekistan,1980,15898757.00
+Uzbekistan,1975,13857478.00
+Uzbekistan,1970,12080317.00
+Uzbekistan,1965,10116870.00
+Uzbekistan,1960,8526300.00
+Uzbekistan,1955,7277333.00
+Morocco,2020,36910560.00
+Morocco,2019,36471769.00
+Morocco,2018,36029093.00
+Morocco,2017,35581255.00
+Morocco,2016,35126283.00
+Morocco,2015,34663603.00
+Morocco,2010,32343389.00
+Morocco,2005,30455561.00
+Morocco,2000,28793679.00
+Morocco,1995,26994250.00
+Morocco,1990,24807462.00
+Morocco,1985,22499110.00
+Morocco,1980,19990012.00
+Morocco,1975,17796164.00
+Morocco,1970,16004731.00
+Morocco,1965,14230163.00
+Morocco,1960,12328532.00
+Morocco,1955,10502666.00
+Canada,2020,37742154.00
+Canada,2019,37411047.00
+Canada,2018,37074562.00
+Canada,2017,36732095.00
+Canada,2016,36382944.00
+Canada,2015,36026676.00
+Canada,2010,34147564.00
+Canada,2005,32164309.00
+Canada,2000,30588383.00
+Canada,1995,29164152.00
+Canada,1990,27541319.00
+Canada,1985,25744810.00
+Canada,1980,24416886.00
+Canada,1975,23059265.00
+Canada,1970,21374326.00
+Canada,1965,19627980.00
+Canada,1960,17847405.00
+Canada,1955,15673763.00
+Saudi Arabia,2020,34813871.00
+Saudi Arabia,2019,34268528.00
+Saudi Arabia,2018,33702756.00
+Saudi Arabia,2017,33101179.00
+Saudi Arabia,2016,32443447.00
+Saudi Arabia,2015,31717667.00
+Saudi Arabia,2010,27421461.00
+Saudi Arabia,2005,23816183.00
+Saudi Arabia,2000,20663843.00
+Saudi Arabia,1995,18638787.00
+Saudi Arabia,1990,16233785.00
+Saudi Arabia,1985,13118993.00
+Saudi Arabia,1980,9691476.00
+Saudi Arabia,1975,7419493.00
+Saudi Arabia,1970,5836389.00
+Saudi Arabia,1965,4843635.00
+Saudi Arabia,1960,4086539.00
+Saudi Arabia,1955,3558155.00
+Poland,2020,37846611.00
+Poland,2019,37887768.00
+Poland,2018,37921592.00
+Poland,2017,37953180.00
+Poland,2016,37989220.00
+Poland,2015,38034079.00
+Poland,2010,38329781.00
+Poland,2005,38368949.00
+Poland,2000,38556693.00
+Poland,1995,38458638.00
+Poland,1990,37960193.00
+Poland,1985,37133870.00
+Poland,1980,35539720.00
+Poland,1975,33970724.00
+Poland,1970,32639258.00
+Poland,1965,31360907.00
+Poland,1960,29614201.00
+Poland,1955,27269749.00
+Afghanistan,2020,38928346.00
+Afghanistan,2019,38041754.00
+Afghanistan,2018,37171921.00
+Afghanistan,2017,36296113.00
+Afghanistan,2016,35383032.00
+Afghanistan,2015,34413603.00
+Afghanistan,2010,29185507.00
+Afghanistan,2005,25654277.00
+Afghanistan,2000,20779953.00
+Afghanistan,1995,18110657.00
+Afghanistan,1990,12412308.00
+Afghanistan,1985,11938208.00
+Afghanistan,1980,13356511.00
+Afghanistan,1975,12689160.00
+Afghanistan,1970,11173642.00
+Afghanistan,1965,9956320.00
+Afghanistan,1960,8996973.00
+Afghanistan,1955,8270991.00
+Iraq,2020,40222493.00
+Iraq,2019,39309783.00
+Iraq,2018,38433600.00
+Iraq,2017,37552781.00
+Iraq,2016,36610632.00
+Iraq,2015,35572261.00
+Iraq,2010,29741976.00
+Iraq,2005,26922284.00
+Iraq,2000,23497585.00
+Iraq,1995,20149338.00
+Iraq,1990,17419113.00
+Iraq,1985,15555800.00
+Iraq,1980,13653354.00
+Iraq,1975,11684590.00
+Iraq,1970,9917983.00
+Iraq,1965,8375790.00
+Iraq,1960,7289760.00
+Ukraine,2020,43733762.00
+Ukraine,2019,43993638.00
+Ukraine,2018,44246156.00
+Ukraine,2017,44487709.00
+Ukraine,2016,44713702.00
+Ukraine,2015,44921639.00
+Ukraine,2010,45792090.00
+Ukraine,2005,46890772.00
+Ukraine,2000,48838065.00
+Ukraine,1995,50903785.00
+Ukraine,1990,51463105.00
+Ukraine,1985,50919275.00
+Ukraine,1980,49965874.00
+Ukraine,1975,48755665.00
+Ukraine,1970,47088857.00
+Ukraine,1965,45264548.00
+Iraq,1955,6502657.00
+Ukraine,1960,42664652.00
+Ukraine,1955,40019491.00
+Sudan,2020,43849260.00
+Sudan,2019,42813238.00
+Sudan,2018,41801533.00
+Sudan,2017,40813397.00
+Sudan,2016,39847439.00
+Sudan,2015,38902950.00
+Sudan,2010,34545013.00
+Sudan,2005,30949516.00
+Sudan,2000,27275015.00
+Sudan,1995,24094747.00
+Sudan,1990,20147590.00
+Sudan,1985,17210187.00
+Sudan,1980,14507468.00
+Sudan,1975,12144135.00
+Sudan,1970,10281700.00
+Sudan,1965,8770097.00
+Sudan,1960,7544491.00
+Sudan,1955,6549298.00
+Algeria,2020,43851044.00
+Algeria,2019,43053054.00
+Algeria,2018,42228408.00
+Algeria,2017,41389189.00
+Algeria,2016,40551392.00
+Algeria,2015,39728025.00
+Algeria,2010,35977455.00
+Algeria,2005,33149724.00
+Algeria,2000,31042235.00
+Algeria,1995,28757785.00
+Algeria,1990,25758869.00
+Algeria,1985,22431502.00
+Algeria,1980,19221665.00
+Algeria,1975,16607707.00
+Algeria,1970,14464985.00
+Algeria,1965,12550885.00
+Algeria,1960,11057863.00
+Algeria,1955,9774283.00
+Uganda,2020,45741007.00
+Uganda,2019,44269594.00
+Uganda,2018,42729036.00
+Uganda,2017,41166588.00
+Uganda,2016,39649166.00
+Uganda,2015,38225453.00
+Uganda,2010,32428167.00
+Uganda,2005,27684585.00
+Uganda,2000,23650172.00
+Uganda,1995,20413152.00
+Uganda,1990,17354392.00
+Uganda,1985,14559355.00
+Uganda,1980,12442334.00
+Uganda,1975,10737403.00
+Uganda,1970,9405600.00
+Uganda,1965,7986066.00
+Uganda,1960,6767095.00
+Uganda,1955,5888793.00
+Argentina,2020,45195774.00
+Argentina,2019,44780677.00
+Argentina,2018,44361150.00
+Argentina,2017,43937140.00
+Argentina,2016,43508460.00
+Argentina,2015,43075416.00
+Argentina,2010,40895752.00
+Argentina,2005,38892931.00
+Argentina,2000,36870787.00
+Argentina,1995,34828170.00
+Argentina,1990,32618651.00
+Argentina,1985,30216279.00
+Argentina,1980,27896528.00
+Argentina,1975,25865776.00
+Argentina,1970,23880561.00
+Argentina,1965,22159650.00
+Argentina,1960,20481779.00
+Argentina,1955,18789418.00
+Spain,2020,46754778.00
+Spain,2019,46736776.00
+Spain,2018,46692858.00
+Spain,2017,46647428.00
+Spain,2016,46634140.00
+Spain,2015,46671926.00
+Spain,2010,46931015.00
+Spain,2005,44019123.00
+Spain,2000,40824754.00
+Spain,1995,39787419.00
+Spain,1990,39202525.00
+Spain,1985,38733876.00
+Spain,1980,37698196.00
+Spain,1975,35879209.00
+Spain,1970,33883749.00
+Spain,1965,32146263.00
+Spain,1960,30402411.00
+Spain,1955,29048395.00
+Colombia,2020,50882891.00
+Colombia,2019,50339443.00
+Colombia,2018,49661048.00
+Colombia,2017,48909839.00
+Colombia,2016,48175052.00
+Colombia,2015,47520667.00
+Colombia,2010,45222700.00
+Colombia,2005,42647723.00
+Colombia,2000,39629968.00
+Colombia,1995,36421438.00
+Colombia,1990,33102575.00
+Colombia,1985,29951201.00
+Colombia,1980,26900506.00
+Colombia,1975,24065507.00
+Colombia,1970,21480065.00
+Colombia,1965,18725245.00
+Colombia,1960,16057724.00
+Colombia,1955,13775000.00
+Kenya,2020,53771296.00
+Kenya,2019,52573973.00
+Kenya,2018,51392565.00
+Kenya,2017,50221142.00
+Kenya,2016,49051534.00
+Kenya,2015,47878336.00
+Kenya,2010,42030676.00
+Kenya,2005,36624895.00
+Kenya,2000,31964557.00
+Kenya,1995,27768296.00
+Kenya,1990,23724579.00
+Kenya,1985,19877083.00
+Kenya,1980,16417197.00
+Kenya,1975,13575907.00
+Kenya,1970,11301394.00
+Kenya,1965,9530173.00
+Kenya,1960,8120080.00
+Kenya,1955,6987658.00
+South Korea,2020,51269185.00
+South Korea,2019,51225308.00
+South Korea,2018,51171706.00
+South Korea,2017,51096415.00
+South Korea,2016,50983457.00
+South Korea,2015,50823093.00
+South Korea,2010,49545636.00
+South Korea,2005,48701073.00
+South Korea,2000,47379241.00
+South Korea,1995,45292522.00
+South Korea,1990,42918419.00
+South Korea,1985,40804402.00
+South Korea,1980,38045607.00
+South Korea,1975,35378661.00
+South Korea,1970,32195681.00
+South Korea,1965,28895558.00
+South Korea,1960,25329515.00
+South Korea,1955,21514570.00
+Myanmar,2020,54409800.00
+Myanmar,2019,54045420.00
+Myanmar,2018,53708320.00
+Myanmar,2017,53382523.00
+Myanmar,2016,53045201.00
+Myanmar,2015,52680726.00
+Myanmar,2010,50600818.00
+Myanmar,2005,48949924.00
+Myanmar,2000,46719701.00
+Myanmar,1995,43901598.00
+Myanmar,1990,41335199.00
+Myanmar,1985,37977086.00
+Myanmar,1980,34224313.00
+Myanmar,1975,30611095.00
+Myanmar,1970,27269069.00
+Myanmar,1965,24259359.00
+Myanmar,1960,21736942.00
+Myanmar,1955,19550071.00
+South Africa,2020,59308690.00
+South Africa,2019,58558270.00
+South Africa,2018,57792518.00
+South Africa,2017,57009756.00
+South Africa,2016,56207646.00
+South Africa,2015,55386367.00
+South Africa,2010,51216964.00
+South Africa,2005,47880601.00
+South Africa,2000,44967708.00
+South Africa,1995,41435758.00
+South Africa,1990,36800509.00
+South Africa,1985,32678874.00
+South Africa,1980,28556769.00
+South Africa,1975,25195187.00
+South Africa,1970,22069776.00
+South Africa,1965,19384841.00
+South Africa,1960,17099840.00
+South Africa,1955,15206502.00
+Tanzania,2020,59734218.00
+Tanzania,2019,58005463.00
+Tanzania,2018,56313438.00
+Tanzania,2017,54660339.00
+Tanzania,2016,53049230.00
+Tanzania,2015,51482633.00
+Tanzania,2010,44346525.00
+Tanzania,2005,38450320.00
+Tanzania,2000,33499180.00
+Tanzania,1995,29649135.00
+Tanzania,1990,25203845.00
+Tanzania,1985,21633796.00
+Tanzania,1980,18538259.00
+Tanzania,1975,15885229.00
+Tanzania,1970,13535481.00
+Tanzania,1965,11634832.00
+Tanzania,1960,10052152.00
+Tanzania,1955,8729662.00
+Italy,2020,60461826.00
+Italy,2019,60550075.00
+Italy,2018,60627291.00
+Italy,2017,60673701.00
+Italy,2016,60663060.00
+Italy,2015,60578494.00
+Italy,2010,59325229.00
+Italy,2005,58281212.00
+Italy,2000,56692178.00
+Italy,1995,57174408.00
+Italy,1990,57048236.00
+Italy,1985,56936774.00
+Italy,1980,56349349.00
+Italy,1975,55265284.00
+Italy,1970,53518969.00
+Italy,1965,51677257.00
+France,2020,65273511.00
+France,2019,65129728.00
+France,2018,64990511.00
+France,2017,64842509.00
+France,2016,64667596.00
+France,2015,64453200.00
+France,2010,62879530.00
+France,2005,61120127.00
+France,2000,59015096.00
+France,1995,57801892.00
+France,1990,56666849.00
+France,1985,55254848.00
+France,1980,53868009.00
+France,1975,52688576.00
+France,1970,50763920.00
+France,1965,48746652.00
+France,1960,45673146.00
+France,1955,43411367.00
+Italy,1960,49699951.00
+Italy,1955,48335578.00
+United Kingdom,2020,67886011.00
+United Kingdom,2019,67530172.00
+United Kingdom,2018,67141684.00
+United Kingdom,2017,66727461.00
+United Kingdom,2016,66297944.00
+Thailand,2020,69799978.00
+Thailand,2019,69625582.00
+Thailand,2018,69428453.00
+Thailand,2017,69209810.00
+Thailand,2016,68971308.00
+Thailand,2015,68714511.00
+Thailand,2010,67195028.00
+Thailand,2005,65416189.00
+Thailand,2000,62952642.00
+Thailand,1995,59467274.00
+Thailand,1990,56558186.00
+Thailand,1985,52026901.00
+Thailand,1980,47374472.00
+Thailand,1975,42326312.00
+Thailand,1970,36884536.00
+Thailand,1965,31822660.00
+Thailand,1960,27397207.00
+Thailand,1955,23711132.00
+United Kingdom,2015,65860146.00
+United Kingdom,2010,63459808.00
+United Kingdom,2005,60287954.00
+United Kingdom,2000,58923309.00
+United Kingdom,1995,57932453.00
+United Kingdom,1990,57134391.00
+United Kingdom,1985,56413553.00
+United Kingdom,1980,56209171.00
+United Kingdom,1975,56152333.00
+United Kingdom,1970,55573453.00
+United Kingdom,1965,54240850.00
+United Kingdom,1960,52370602.00
+United Kingdom,1955,51063902.00
+Germany,2020,83783942.00
+Germany,2019,83517045.00
+Germany,2018,83124418.00
+Germany,2017,82658409.00
+Germany,2016,82193768.00
+Germany,2015,81787411.00
+Germany,2010,80827002.00
+Germany,2005,81602741.00
+Germany,2000,81400882.00
+Germany,1995,81138659.00
+Germany,1990,79053984.00
+Germany,1985,77691595.00
+Germany,1980,78283100.00
+Germany,1975,78856039.00
+Germany,1970,78578385.00
+Germany,1965,76258032.00
+Germany,1960,73414239.00
+Germany,1955,71537459.00
+Turkey,2020,84339067.00
+Turkey,2019,83429615.00
+Turkey,2018,82340088.00
+Turkey,2017,81116450.00
+Turkey,2016,79827871.00
+Turkey,2015,78529409.00
+Turkey,2010,72326988.00
+Turkey,2005,67903469.00
+Turkey,2000,63240194.00
+Turkey,1995,58486456.00
+Turkey,1990,53921760.00
+Turkey,1985,49133937.00
+Turkey,1980,43975971.00
+Turkey,1975,39277258.00
+Turkey,1970,34876303.00
+Turkey,1965,30972994.00
+Turkey,1960,27472345.00
+Turkey,1955,24270600.00
+Iran,2020,83992949.00
+Iran,2019,82913906.00
+Iran,2018,81800188.00
+Iran,2017,80673883.00
+Iran,2016,79563989.00
+Iran,2015,78492215.00
+Iran,2010,73762519.00
+Iran,2005,69762347.00
+Iran,2000,65623405.00
+Iran,1995,61442664.00
+Iran,1990,56366217.00
+Iran,1985,47347186.00
+Iran,1980,38650246.00
+Iran,1975,32729772.00
+Iran,1970,28513866.00
+Iran,1965,24954873.00
+Iran,1960,21906914.00
+Iran,1955,19294127.00
+DR Congo,2020,89561403.00
+DR Congo,2019,86790567.00
+DR Congo,2018,84068091.00
+DR Congo,2017,81398764.00
+DR Congo,2016,78789127.00
+DR Congo,2015,76244544.00
+DR Congo,2010,64563854.00
+DR Congo,2005,54785903.00
+DR Congo,2000,47105826.00
+DR Congo,1995,41576234.00
+DR Congo,1990,34612023.00
+DR Congo,1985,29881229.00
+DR Congo,1980,26358908.00
+DR Congo,1975,22903581.00
+DR Congo,1970,20011036.00
+DR Congo,1965,17369883.00
+DR Congo,1960,15248251.00
+DR Congo,1955,13517513.00
+Vietnam,2020,97338579.00
+Vietnam,2019,96462106.00
+Vietnam,2018,95545962.00
+Vietnam,2017,94600648.00
+Vietnam,2016,93640422.00
+Vietnam,2015,92677076.00
+Vietnam,2010,87967651.00
+Vietnam,2005,83832661.00
+Vietnam,2000,79910412.00
+Vietnam,1995,74910461.00
+Vietnam,1990,67988862.00
+Vietnam,1985,60896721.00
+Vietnam,1980,54281846.00
+Vietnam,1975,48718189.00
+Vietnam,1970,43404793.00
+Vietnam,1965,37858951.00
+Vietnam,1960,32670039.00
+Vietnam,1955,28147443.00
+Egypt,2020,102334404.00
+Egypt,2019,100388073.00
+Egypt,2018,98423598.00
+Egypt,2017,96442591.00
+Egypt,2016,94447073.00
+Egypt,2015,92442547.00
+Egypt,2010,82761235.00
+Egypt,2005,75523569.00
+Egypt,2000,68831561.00
+Egypt,1995,62334034.00
+Egypt,1990,56134475.00
+Egypt,1985,49258732.00
+Egypt,1980,43309063.00
+Egypt,1975,38549142.00
+Egypt,1970,34513850.00
+Egypt,1965,30433022.00
+Egypt,1960,26632894.00
+Egypt,1955,23223124.00
+Philippines,2020,109581078.00
+Philippines,2019,108116615.00
+Philippines,2018,106651394.00
+Philippines,2017,105172925.00
+Philippines,2016,103663816.00
+Philippines,2015,102113212.00
+Philippines,2010,93966780.00
+Philippines,2005,86326250.00
+Philippines,2000,77991755.00
+Philippines,1995,69784088.00
+Philippines,1990,61895160.00
+Philippines,1985,54275822.00
+Philippines,1980,47357743.00
+Philippines,1975,41285742.00
+Philippines,1970,35803594.00
+Philippines,1965,30909988.00
+Philippines,1960,26269734.00
+Philippines,1955,22177058.00
