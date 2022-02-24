@@ -18,7 +18,7 @@ Repository Link: https://github.com/Abishek-Suresh/Worldometers-webscraper-using
     
 ## To generate spider
     
-    scrapy gen spider countries https://www.worldometers.info/world-population/population-by-country
+    scrapy gen spider countries www.worldometers.info/world-population/population-by-country
 
 ## To Run the Spider
 
